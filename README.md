@@ -50,18 +50,3 @@ The content is relevant to the project. (5 points)
 The presentation maintains audience interest. (5 points)
 Content, transitions, and conclusions flow smoothly within any time restrictions. (10 points)
 
-Natasha G’s Potential Databases: 
-Carotid artery stenosis patients 
-Project Outline: The aim of our research project is to investigate the potential use of protein biomarkers for diagnosing coronary artery stenosis (CAS), a condition where the arteries supplying blood to the heart are narrowed, leading to reduced blood flow and an increased risk of heart attack. While several proteins, such as troponin, C-reactive protein (CRP), Myeloperoxidase (MPO), and Lipoprotein-associated phospholipase (Lp-PLA2), have been identified as potential biomarkers for CAS, no single biomarker has been found to definitively diagnose the condition. Our project seeks to identify a specific protein biomarker that can be used for the diagnosis of CAS. To achieve this, we will review available research on protein biomarkers and analyze relevant data from clinical evaluation, imaging tests, and blood biomarkers. Ultimately, our research may provide important insights into the development of more accurate diagnostic tools for CAS, helping to improve patient outcomes and reduce the risk of heart disease.
-
-Research Question(s)/Purpose: What proteins can be used as biomarkers for coronary artery stenosis? 
-
-DataType: Healthcare patient data 
-
-Mental Health Disorders among adolescents in the US 
-Project Outline: The goal of this research project is to estimate the prevalence of mental health disorders among children and adolescents in the United States and to identify demographic factors, such as age, sex, and race/ethnicity, that may be associated with increased risk. We will use data from the National Survey of Children's Health, which is conducted by the Centers for Disease Control and Prevention (CDC) and provides a nationally representative sample of children and adolescents aged 0-17 years. Our analysis will focus on the prevalence of common mental health disorders, such as anxiety, depression, and attention-deficit/hyperactivity disorder (ADHD), and will also examine the co-occurrence of multiple disorders. We will identify factors that are most strongly associated with risk of mental health disorders, and will explore potential differences in risk by demographic factors. The results of this study will provide important insights into the burden of mental health disorders among children and adolescents in the United States and may help inform the development of targeted interventions and policies to improve mental health outcomes for this population.
-
-Research Question(s)/Purpose: What is the prevalence of mental health disorders among children and adolescents in the United States? and how does this vary by demographic factors such as age, sex, and race/ethnicity? 
-
-DataType: Survey (Adolscent Mental Health Data) URL:https://chronicdata.cdc.gov/Vision-Eye-Health/National-Survey-of-Children-s-Health-NSCH-Vision-a/de4p-4g3k
-
