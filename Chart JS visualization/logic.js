@@ -1,6 +1,6 @@
 const ctx = document.getElementById('myChart');
 
-const link = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_month.geojson";
+const link = "https://github.com/AmirAhanchian/Tsunami-Project-3-team5/blob/main/Resources/tsunami.json";
 
 
 
