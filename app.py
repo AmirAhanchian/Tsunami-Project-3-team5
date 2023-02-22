@@ -30,7 +30,7 @@ app = Flask(__name__)
 # Flask Routes
 #################################################
 
-# @app.route("/")
+@app.route("/")
 def welcome():
     return (
         f"Welcome to the Tsunami API!<br/>"
