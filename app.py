@@ -23,12 +23,6 @@ mongo = MongoClient(port=27017)
 # assign the Tsunami database to a variable name
 db = mongo['Tsunamidb']
 
-# Query Death_Only Dataset 
-
-query_death = {"Total Deaths": {'$gte': 0}}
-dataset_total_death = list(db.Tsunami.find(query_death))
-print(dataset_total_death[0])
-
 # Flask Set-Up
 app = Flask(__name__)
 
@@ -36,12 +30,13 @@ app = Flask(__name__)
 # Flask Routes
 #################################################
 
-@app.route("/")
+# @app.route("/")
 def welcome():
     return (
         f"Welcome to the Tsunami API!<br/>"
         f"Available Routes:<br/>"
         f"/api/v1.0/Tsunami<br/>"
+        f"/api/v1.0/Death_Only<br/>"
     )
 
 # # App Calling
@@ -50,9 +45,13 @@ def welcome():
 @app.route("/api/v1.0/Tsunami")
 def intensity():
     # Query Intensity Dataset 
-    query = {"Year": {'$gte': 1921}}
-    dataset_intensity = list(db.Tsunami.find(query))    
+    dataset_intensity = list(db.Tsunami.find({}, {'_id': False}))    
     return jsonify(dataset_intensity)
+
+@app.route("/api/v1.0/Death_Only")
+def death_only():
+    dataset_total_death = list(db.Tsunami.find({"Total Deaths": {'$gt': 0}}, {'_id': 0}))
+    return jsonify(dataset_total_death)
 
 # # Debug ON
 if __name__ == '__main__':
