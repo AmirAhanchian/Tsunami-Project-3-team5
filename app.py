@@ -11,6 +11,7 @@ import json
 import numpy as np
 import pandas as pd
 import warnings
+from flask_cors import CORS
 warnings.filterwarnings('ignore')
 
 # Import dependencies
@@ -25,6 +26,7 @@ db = mongo['Tsunamidb']
 
 # Flask Set-Up
 app = Flask(__name__)
+CORS(app)
 
 #################################################
 # Flask Routes
