@@ -1,44 +1,35 @@
-//const ctx = document.getElementById('myChart');
 
-//const link = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_month.geojson";
 
 $.getJSON("http://127.0.0.1:5000/api/v1.0/Tsunami", function(data) {
     //console.log(data);
+
+    
     var tsunami_info = data
 
     // checking that all information was pulled correctly
-    console.log(tsunami_info)
+    //console.log(tsunami_info)
     
-   var lookup = {};
-   var items = tsunami_info;
-   var result = [];
 
-   for (var item, i = 0; item = items[i++];) {
-      var code = item['Tsunami Cause Code'];
-
-      if (!(code in lookup)) {
-         lookup[code] = 1;
-         result.push(code);
-      }
-   }
-   console.log(result)
-
-
-   bob = _.countBy(tsunami_info, function(tsunami_info) { return tsunami_info['Tsunami Cause Code']; });
-
-   console.log(bob)
-
-    //looping through data to find variables needed for the mapping
-    for (var i = 0; i < tsunami_info.length; i++) {
-      var info = tsunami_info[i]['Tsunami Cause Code'];
    
-      data_plot = bob
-
-      labels = []
-      //labels = ["unknown","Earthquake","Questionable Earthquake","Earthquake and Landslide",
-      //"Volcano and Earthquake","Volcano, Earthquake, and Landslide","Volcano","Volcano and Landslide","Landslide","Meteorological"] 
+   cause = _.countBy(tsunami_info, function(tsunami_info) { return tsunami_info['Tsunami Cause Code']; });
       
-      }
+
+   delete Object.assign(cause, { "Earthquake": cause['1'] })['1'];
+   delete Object.assign(cause, { "Earthquake and Landslide": cause['3'] })['3'];
+   delete Object.assign(cause, { "Volcano": cause['6'] })['6'];
+   delete Object.assign(cause, { "Meteorological": cause['9'] })['9'];
+
+   console.log(cause); // { newKey: 'value' }
+
+
+   
+   cause2 = {...cause, "Questionable Earthquake": 0, "Volcano and Earthquake":0, "Volcano, Earthquake, and Landslide":0, "Volcano and Landslide":0, "Landslide":0, "unknown": 0};
+   console.log(cause)
+
+   country = _.countBy(tsunami_info, function(tsunami_info) { return tsunami_info['Country']; });
+   year = _.countBy(tsunami_info, function(tsunami_info) { return tsunami_info['Year']; });
+
+
 
 
 
@@ -46,16 +37,51 @@ $.getJSON("http://127.0.0.1:5000/api/v1.0/Tsunami", function(data) {
    var chart = new Chart(ctx, {
       type: 'bar',
       data: {
-         labels: labels,
+         
          datasets: [{
-            backgroundColor: 'rgb(129, 198, 2228)',
+            backgroundColor: 'rgb(129, 198, 0)',
             borderColor: 'rgb(0, 150, 215)',
-            data: data_plot
+            data: cause2
          }]
       },
       options: {
          responsive: 'true',
       }
+   
+   });
+
+   const ctx2 = document.getElementById('myChart2');
+   var chart2 = new Chart(ctx2, {
+      type: 'bar',
+      data: {
+         
+         datasets: [{
+            backgroundColor: 'rgb(129, 198, 2228)',
+            borderColor: 'rgb(0, 150, 215)',
+            data: country
+         }]
+      },
+      options: {
+         responsive: 'true',
+      }
+   
+   });
+
+   const ctx3 = document.getElementById('myChart3');
+   var chart3 = new Chart(ctx3, {
+      type: 'bar',
+      data: {
+         
+         datasets: [{
+            backgroundColor: 'rgb(129, 198, 2228)',
+            borderColor: 'rgb(0, 150, 215)',
+            data: year
+         }]
+      },
+      options: {
+         responsive: 'true',
+      }
+   
    });
 });
 
