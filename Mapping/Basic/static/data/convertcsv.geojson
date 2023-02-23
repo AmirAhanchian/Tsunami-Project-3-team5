@@ -1,0 +1,5990 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.9,0.7 ]
+    },
+    "properties": {
+    "Year":1921,
+    "Tsunami Event Validity":2,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.2,
+    "Deposits":0,
+    "Country":"INDONESIA",
+    "Location Name":"MAKASSAR STRAIT",
+    "Maximum Water Height (m)":1,
+    "Number of Runups":1,
+    "Tsunami Intensity":0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111,-11 ]
+    },
+    "properties": {
+    "Year":1921,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.5,
+    "Deposits":0,
+    "Country":"INDONESIA",
+    "Location Name":"JAVA",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":3,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.1,10.2 ]
+    },
+    "properties": {
+    "Year":1922,
+    "Tsunami Event Validity":2,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.3,
+    "Deposits":0,
+    "Country":"PHILIPPINES",
+    "Location Name":"CEBU ISLAND",
+    "Maximum Water Height (m)":0.7,
+    "Number of Runups":3,
+    "Tsunami Intensity":0,
+    "Total Deaths":5,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.755,-28.553 ]
+    },
+    "properties": {
+    "Year":1922,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8.7,
+    "Deposits":0,
+    "Country":"CHILE",
+    "Location Name":"NORTHERN CHILE",
+    "Maximum Water Height (m)":9,
+    "Number of Runups":36,
+    "Tsunami Intensity":2.5,
+    "Total Deaths":700,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 173,-43 ]
+    },
+    "properties": {
+    "Year":1922,
+    "Tsunami Event Validity":3,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.3,
+    "Deposits":0,
+    "Country":"NEW ZEALAND",
+    "Location Name":"SE. NEW ZEALAND",
+    "Maximum Water Height (m)":0.4,
+    "Number of Runups":3,
+    "Tsunami Intensity":0,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 162.5,56.5 ]
+    },
+    "properties": {
+    "Year":1923,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.2,
+    "Deposits":1,
+    "Country":"RUSSIA",
+    "Location Name":"KAMCHATKA",
+    "Maximum Water Height (m)":20,
+    "Number of Runups":11,
+    "Tsunami Intensity":3.5,
+    "Total Deaths":18,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.8,35.4 ]
+    },
+    "properties": {
+    "Year":1923,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.3,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"KASHIMA, JAPAN",
+    "Maximum Water Height (m)":0.4,
+    "Number of Runups":1,
+    "Tsunami Intensity":-1.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5,35.1 ]
+    },
+    "properties": {
+    "Year":1923,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.9,
+    "Deposits":1,
+    "Country":"JAPAN",
+    "Location Name":"SAGAMI BAY",
+    "Maximum Water Height (m)":13,
+    "Number of Runups":140,
+    "Tsunami Intensity":3,
+    "Total Deaths":142807,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.2,34.9 ]
+    },
+    "properties": {
+    "Year":1923,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.7,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"RYUKYU ISLANDS",
+    "Maximum Water Height (m)":0.3,
+    "Number of Runups":6,
+    "Tsunami Intensity":-1.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107,18.5 ]
+    },
+    "properties": {
+    "Year":1925,
+    "Tsunami Event Validity":1,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"MEXICO",
+    "Location Name":"S. MEXICO",
+    "Maximum Water Height (m)":11,
+    "Number of Runups":1,
+    "Tsunami Intensity":3,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 159.519,-9.674 ]
+    },
+    "properties": {
+    "Year":1926,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.9,
+    "Deposits":0,
+    "Country":"SOLOMON ISLANDS",
+    "Location Name":"SOLOMON ISLANDS",
+    "Maximum Water Height (m)":2,
+    "Number of Runups":3,
+    "Tsunami Intensity":1.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.4,44.4 ]
+    },
+    "properties": {
+    "Year":1927,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6,
+    "Deposits":0,
+    "Country":"UKRAINE",
+    "Location Name":"CRIMEA, BLACK SEA",
+    "Maximum Water Height (m)":0.7,
+    "Number of Runups":0,
+    "Tsunami Intensity":2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5,44.4 ]
+    },
+    "properties": {
+    "Year":1927,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.8,
+    "Deposits":0,
+    "Country":"UKRAINE",
+    "Location Name":"CRIMEA, BLACK SEA",
+    "Maximum Water Height (m)":1,
+    "Number of Runups":1,
+    "Tsunami Intensity":2,
+    "Total Deaths":11,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.774,34.813 ]
+    },
+    "properties": {
+    "Year":1927,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.3,
+    "Deposits":0,
+    "Country":"USA",
+    "Location Name":"S. CALIFORNIA",
+    "Maximum Water Height (m)":1.8,
+    "Number of Runups":8,
+    "Tsunami Intensity":1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.7,-0.7 ]
+    },
+    "properties": {
+    "Year":1927,
+    "Tsunami Event Validity":3,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.3,
+    "Deposits":0,
+    "Country":"INDONESIA",
+    "Location Name":"SULAWESI",
+    "Maximum Water Height (m)":15,
+    "Number of Runups":2,
+    "Tsunami Intensity":3,
+    "Total Deaths":50,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23,38 ]
+    },
+    "properties": {
+    "Year":1928,
+    "Tsunami Event Validity":3,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6,
+    "Deposits":0,
+    "Country":"GREECE",
+    "Location Name":"CORINTHOS-PATRAS GULF",
+    "Maximum Water Height (m)":0.6,
+    "Number of Runups":7,
+    "Tsunami Intensity":3,
+    "Total Deaths":20,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.2,40 ]
+    },
+    "properties": {
+    "Year":1928,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SANRIKU",
+    "Maximum Water Height (m)":0.45,
+    "Number of Runups":8,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.036,16.028 ]
+    },
+    "properties": {
+    "Year":1928,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.7,
+    "Deposits":0,
+    "Country":"MEXICO",
+    "Location Name":"S. MEXICO",
+    "Maximum Water Height (m)":0.2,
+    "Number of Runups":10,
+    "Tsunami Intensity":1,
+    "Total Deaths":4,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72,-35 ]
+    },
+    "properties": {
+    "Year":1928,
+    "Tsunami Event Validity":3,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.6,
+    "Deposits":0,
+    "Country":"CHILE",
+    "Location Name":"CENTRAL CHILE",
+    "Maximum Water Height (m)":1.5,
+    "Number of Runups":2,
+    "Tsunami Intensity":0.5,
+    "Total Deaths":279,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -131,51 ]
+    },
+    "properties": {
+    "Year":1929,
+    "Tsunami Event Validity":3,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"CANADA",
+    "Location Name":"BRITISH COLUMBIA",
+    "Maximum Water Height (m)":1.5,
+    "Number of Runups":3,
+    "Tsunami Intensity":0,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.3,-1.3 ]
+    },
+    "properties": {
+    "Year":1930,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.5,
+    "Deposits":0,
+    "Country":"PAPUA NEW GUINEA",
+    "Location Name":"BISMARCK SEA",
+    "Maximum Water Height (m)":12,
+    "Number of Runups":29,
+    "Tsunami Intensity":1.5,
+    "Total Deaths":27,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71,-28.5 ]
+    },
+    "properties": {
+    "Year":1930,
+    "Tsunami Event Validity":2,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6,
+    "Deposits":0,
+    "Country":"CHILE",
+    "Location Name":"NORTHERN CHILE",
+    "Maximum Water Height (m)":1,
+    "Number of Runups":1,
+    "Tsunami Intensity":0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 177,-39.5 ]
+    },
+    "properties": {
+    "Year":1931,
+    "Tsunami Event Validity":1,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.1,
+    "Deposits":0,
+    "Country":"NEW ZEALAND",
+    "Location Name":"N. NEW ZEALAND",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":1,
+    "Tsunami Intensity":0,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.5,41.2 ]
+    },
+    "properties": {
+    "Year":1931,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.6,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SANRIKU",
+    "Maximum Water Height (m)":0.4,
+    "Number of Runups":7,
+    "Tsunami Intensity":-1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 161.016,-10.932 ]
+    },
+    "properties": {
+    "Year":1931,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.8,
+    "Deposits":0,
+    "Country":"SOLOMON ISLANDS",
+    "Location Name":"SAN CRISTOBAL ISLAND",
+    "Maximum Water Height (m)":9,
+    "Number of Runups":13,
+    "Tsunami Intensity":2.5,
+    "Total Deaths":50,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.919,19.623 ]
+    },
+    "properties": {
+    "Year":1932,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8.1,
+    "Deposits":1,
+    "Country":"MEXICO",
+    "Location Name":"CENTRAL MEXICO",
+    "Maximum Water Height (m)":10,
+    "Number of Runups":19,
+    "Tsunami Intensity":2,
+    "Total Deaths":400,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.631,19.081 ]
+    },
+    "properties": {
+    "Year":1932,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.8,
+    "Deposits":0,
+    "Country":"MEXICO",
+    "Location Name":"CENTRAL MEXICO",
+    "Maximum Water Height (m)":1,
+    "Number of Runups":2,
+    "Tsunami Intensity":0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.383,19.242 ]
+    },
+    "properties": {
+    "Year":1932,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.7,
+    "Deposits":1,
+    "Country":"MEXICO",
+    "Location Name":"CENTRAL MEXICO",
+    "Maximum Water Height (m)":10,
+    "Number of Runups":6,
+    "Tsunami Intensity":1.5,
+    "Total Deaths":75,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.9,40.5 ]
+    },
+    "properties": {
+    "Year":1932,
+    "Tsunami Event Validity":1,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.9,
+    "Deposits":0,
+    "Country":"GREECE",
+    "Location Name":"NORTH AEGEAN",
+    "Maximum Water Height (m)":2,
+    "Number of Runups":2,
+    "Tsunami Intensity":3,
+    "Total Deaths":161,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.622,39.224 ]
+    },
+    "properties": {
+    "Year":1933,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8.4,
+    "Deposits":2,
+    "Country":"JAPAN",
+    "Location Name":"SANRIKU",
+    "Maximum Water Height (m)":29,
+    "Number of Runups":294,
+    "Tsunami Intensity":3.5,
+    "Total Deaths":3022,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.299,36.759 ]
+    },
+    "properties": {
+    "Year":1933,
+    "Tsunami Event Validity":1,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.4,
+    "Deposits":0,
+    "Country":"GREECE",
+    "Location Name":"COS, DODECANESE",
+    "Maximum Water Height (m)":2,
+    "Number of Runups":1,
+    "Tsunami Intensity":2,
+    "Total Deaths":181,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7,39.9 ]
+    },
+    "properties": {
+    "Year":1935,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.2,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SANRIKU",
+    "Maximum Water Height (m)":0.3,
+    "Number of Runups":8,
+    "Tsunami Intensity":-1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.3,40.7 ]
+    },
+    "properties": {
+    "Year":1935,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SANRIKU",
+    "Maximum Water Height (m)":0.2,
+    "Number of Runups":2,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.5,4.5 ]
+    },
+    "properties": {
+    "Year":1936,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.7,
+    "Deposits":0,
+    "Country":"INDONESIA",
+    "Location Name":"SULAWESI",
+    "Maximum Water Height (m)":3,
+    "Number of Runups":2,
+    "Tsunami Intensity":2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70,-24.5 ]
+    },
+    "properties": {
+    "Year":1936,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.3,
+    "Deposits":0,
+    "Country":"CHILE",
+    "Location Name":"NORTHERN CHILE",
+    "Maximum Water Height (m)":1,
+    "Number of Runups":3,
+    "Tsunami Intensity":0.5,
+    "Total Deaths":1,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 164,55.2 ]
+    },
+    "properties": {
+    "Year":1936,
+    "Tsunami Event Validity":2,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.3,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"KAMCHATKA",
+    "Maximum Water Height (m)":13,
+    "Number of Runups":1,
+    "Tsunami Intensity":2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.5,-5.25 ]
+    },
+    "properties": {
+    "Year":1938,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8.5,
+    "Deposits":0,
+    "Country":"INDONESIA",
+    "Location Name":"BANDA SEA",
+    "Maximum Water Height (m)":1,
+    "Number of Runups":5,
+    "Tsunami Intensity":1.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.3,-3 ]
+    },
+    "properties": {
+    "Year":1938,
+    "Tsunami Event Validity":2,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6,
+    "Deposits":0,
+    "Country":"INDONESIA",
+    "Location Name":"BANDA SEA",
+    "Maximum Water Height (m)":0.5,
+    "Number of Runups":1,
+    "Tsunami Intensity":-0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.115,25.321 ]
+    },
+    "properties": {
+    "Year":1938,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.6,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"RYUKYU ISLANDS",
+    "Maximum Water Height (m)":1.5,
+    "Number of Runups":1,
+    "Tsunami Intensity":0,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.7,37.1 ]
+    },
+    "properties": {
+    "Year":1938,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.7,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SANRIKU",
+    "Maximum Water Height (m)":0.57,
+    "Number of Runups":17,
+    "Tsunami Intensity":-0.5,
+    "Total Deaths":1,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.7,37.2 ]
+    },
+    "properties": {
+    "Year":1938,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.6,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SANRIKU",
+    "Maximum Water Height (m)":0.56,
+    "Number of Runups":12,
+    "Tsunami Intensity":-0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.8,37.5 ]
+    },
+    "properties": {
+    "Year":1938,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.5,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"OFF FUKUSHIMA PREFECTURE",
+    "Maximum Water Height (m)":1.26,
+    "Number of Runups":15,
+    "Tsunami Intensity":-0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.7,37 ]
+    },
+    "properties": {
+    "Year":1938,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.1,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"OFF FUKUSHIMA PREFECTURE",
+    "Maximum Water Height (m)":1.25,
+    "Number of Runups":11,
+    "Tsunami Intensity":-0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.5,37 ]
+    },
+    "properties": {
+    "Year":1938,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SANRIKU",
+    "Maximum Water Height (m)":0.75,
+    "Number of Runups":7,
+    "Tsunami Intensity":-1.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.1,36.7 ]
+    },
+    "properties": {
+    "Year":1938,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.9,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SANRIKU",
+    "Maximum Water Height (m)":0.3,
+    "Number of Runups":4,
+    "Tsunami Intensity":-2.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.2,37 ]
+    },
+    "properties": {
+    "Year":1938,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SANRIKU",
+    "Maximum Water Height (m)":0.2,
+    "Number of Runups":9,
+    "Tsunami Intensity":-3,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132,32.3 ]
+    },
+    "properties": {
+    "Year":1939,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.6,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SEIKAIDO",
+    "Maximum Water Height (m)":0.8,
+    "Number of Runups":4,
+    "Tsunami Intensity":0,
+    "Total Deaths":1,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 159.234,-9.295 ]
+    },
+    "properties": {
+    "Year":1939,
+    "Tsunami Event Validity":3,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.9,
+    "Deposits":0,
+    "Country":"SOLOMON ISLANDS",
+    "Location Name":"SOLOMON ISLANDS",
+    "Maximum Water Height (m)":10.5,
+    "Number of Runups":8,
+    "Tsunami Intensity":1.5,
+    "Total Deaths":12,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5,40.1 ]
+    },
+    "properties": {
+    "Year":1939,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"NW. HONSHU ISLAND",
+    "Maximum Water Height (m)":1.2,
+    "Number of Runups":25,
+    "Tsunami Intensity":0,
+    "Total Deaths":27,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -24.356,37.198 ]
+    },
+    "properties": {
+    "Year":1939,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.7,
+    "Deposits":0,
+    "Country":"PORTUGAL",
+    "Location Name":"AZORES",
+    "Maximum Water Height (m)":0.2,
+    "Number of Runups":2,
+    "Tsunami Intensity":1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.533,39.77 ]
+    },
+    "properties": {
+    "Year":1939,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.7,
+    "Deposits":0,
+    "Country":"TURKEY",
+    "Location Name":"SOUTH BLACK SEA",
+    "Maximum Water Height (m)":0.53,
+    "Number of Runups":11,
+    "Tsunami Intensity":4,
+    "Total Deaths":32700,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77,-10.5 ]
+    },
+    "properties": {
+    "Year":1940,
+    "Tsunami Event Validity":2,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8.2,
+    "Deposits":0,
+    "Country":"PERU",
+    "Location Name":"CENTRAL PERU",
+    "Maximum Water Height (m)":2,
+    "Number of Runups":5,
+    "Tsunami Intensity":1.5,
+    "Total Deaths":179,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5,44.2 ]
+    },
+    "properties": {
+    "Year":1940,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.5,
+    "Deposits":1,
+    "Country":"JAPAN",
+    "Location Name":"W. HOKKAIDO ISLAND",
+    "Maximum Water Height (m)":5,
+    "Number of Runups":62,
+    "Tsunami Intensity":1.5,
+    "Total Deaths":10,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.071,-4.175 ]
+    },
+    "properties": {
+    "Year":1941,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.4,
+    "Deposits":0,
+    "Country":"PAPUA NEW GUINEA",
+    "Location Name":"BISMARCK SEA",
+    "Maximum Water Height (m)":0.15,
+    "Number of Runups":3,
+    "Tsunami Intensity":-2.5,
+    "Total Deaths":4,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.1,32 ]
+    },
+    "properties": {
+    "Year":1941,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.4,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SEIKAIDO",
+    "Maximum Water Height (m)":1.2,
+    "Number of Runups":11,
+    "Tsunami Intensity":0,
+    "Total Deaths":2,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -18.966,37.301 ]
+    },
+    "properties": {
+    "Year":1941,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.8,
+    "Deposits":0,
+    "Country":"ATLANTIC OCEAN",
+    "Location Name":"AZORES GIBRALTAR FRACTURE ZONE",
+    "Maximum Water Height (m)":0.23,
+    "Number of Runups":14,
+    "Tsunami Intensity":2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2,8.7 ]
+    },
+    "properties": {
+    "Year":1941,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.6,
+    "Deposits":0,
+    "Country":"COSTA RICA",
+    "Location Name":"COSTA RICA-PANAMA",
+    "Maximum Water Height (m)":0.23,
+    "Number of Runups":1,
+    "Tsunami Intensity":-3,
+    "Total Deaths":6,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84,8.5 ]
+    },
+    "properties": {
+    "Year":1941,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.9,
+    "Deposits":0,
+    "Country":"COSTA RICA",
+    "Location Name":"COSTA RICA-PANAMA",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":1,
+    "Tsunami Intensity":-4,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.5,4.6 ]
+    },
+    "properties": {
+    "Year":1942,
+    "Tsunami Event Validity":1,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":5.8,
+    "Deposits":0,
+    "Country":"COLOMBIA",
+    "Location Name":"COLOMBIA",
+    "Maximum Water Height (m)":1,
+    "Number of Runups":1,
+    "Tsunami Intensity":1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.3,41.2 ]
+    },
+    "properties": {
+    "Year":1943,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.1,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SE. HOKKAIDO ISLAND",
+    "Maximum Water Height (m)":0.6,
+    "Number of Runups":1,
+    "Tsunami Intensity":-0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.1,34 ]
+    },
+    "properties": {
+    "Year":1944,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8.1,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"OFF SOUTHEAST COAST KII PENINSULA",
+    "Maximum Water Height (m)":10,
+    "Number of Runups":156,
+    "Tsunami Intensity":2.5,
+    "Total Deaths":1223,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.2,34.7 ]
+    },
+    "properties": {
+    "Year":1945,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.1,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"TOKAIDO",
+    "Maximum Water Height (m)":1,
+    "Number of Runups":7,
+    "Tsunami Intensity":-0.5,
+    "Total Deaths":2306,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.1,40.9 ]
+    },
+    "properties": {
+    "Year":1945,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.3,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SANRIKU",
+    "Maximum Water Height (m)":0.4,
+    "Number of Runups":1,
+    "Tsunami Intensity":-1.5,
+    "Total Deaths":2,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.6,33 ]
+    },
+    "properties": {
+    "Year":1946,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8.1,
+    "Deposits":1,
+    "Country":"JAPAN",
+    "Location Name":"HONSHU: S COAST",
+    "Maximum Water Height (m)":6.6,
+    "Number of Runups":304,
+    "Tsunami Intensity":2.5,
+    "Total Deaths":1362,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141,43.8 ]
+    },
+    "properties": {
+    "Year":1947,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"W. HOKKAIDO ISLAND",
+    "Maximum Water Height (m)":2,
+    "Number of Runups":4,
+    "Tsunami Intensity":1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.158,35.64 ]
+    },
+    "properties": {
+    "Year":1948,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.3,
+    "Deposits":0,
+    "Country":"GREECE",
+    "Location Name":"DODECANESE, KARPATHOS IS.",
+    "Maximum Water Height (m)":7.3,
+    "Number of Runups":11,
+    "Tsunami Intensity":4,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.6,33.1 ]
+    },
+    "properties": {
+    "Year":1948,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.2,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"TOKAIDO",
+    "Maximum Water Height (m)":0.6,
+    "Number of Runups":3,
+    "Tsunami Intensity":-1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.427,38.532 ]
+    },
+    "properties": {
+    "Year":1948,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.5,
+    "Deposits":0,
+    "Country":"GREECE",
+    "Location Name":"IONIAN SEA",
+    "Maximum Water Height (m)":1,
+    "Number of Runups":1,
+    "Tsunami Intensity":4,
+    "Total Deaths":2,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -174,-21 ]
+    },
+    "properties": {
+    "Year":1948,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.8,
+    "Deposits":0,
+    "Country":"TONGA",
+    "Location Name":"TONGA TRENCH",
+    "Maximum Water Height (m)":2,
+    "Number of Runups":6,
+    "Tsunami Intensity":1.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106,22 ]
+    },
+    "properties": {
+    "Year":1948,
+    "Tsunami Event Validity":2,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.9,
+    "Deposits":0,
+    "Country":"MEXICO",
+    "Location Name":"MEXICO",
+    "Maximum Water Height (m)":5,
+    "Number of Runups":1,
+    "Tsunami Intensity":1.5,
+    "Total Deaths":4,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.482,38.718 ]
+    },
+    "properties": {
+    "Year":1949,
+    "Tsunami Event Validity":3,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.5,
+    "Deposits":0,
+    "Country":"GREECE",
+    "Location Name":"CHIOS ISLAND, AEGEAN ISLANDS",
+    "Maximum Water Height (m)":2,
+    "Number of Runups":4,
+    "Tsunami Intensity":2,
+    "Total Deaths":7,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5,17 ]
+    },
+    "properties": {
+    "Year":1949,
+    "Tsunami Event Validity":0,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.4,
+    "Deposits":0,
+    "Country":"PHILIPPINES",
+    "Location Name":"NORTHERN LUZON ISLAND",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":1,
+    "Tsunami Intensity":-4,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 154,-5.5 ]
+    },
+    "properties": {
+    "Year":1949,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.5,
+    "Deposits":0,
+    "Country":"PAPUA NEW GUINEA",
+    "Location Name":"SOLOMON SEA",
+    "Maximum Water Height (m)":0.3,
+    "Number of Runups":5,
+    "Tsunami Intensity":-1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85,11 ]
+    },
+    "properties": {
+    "Year":1950,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.7,
+    "Deposits":0,
+    "Country":"COSTA RICA",
+    "Location Name":"COSTA RICA-NICARAGUA",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":8,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.917,14.31 ]
+    },
+    "properties": {
+    "Year":1950,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.5,
+    "Deposits":0,
+    "Country":"GUATEMALA",
+    "Location Name":"GUATEMALA",
+    "Maximum Water Height (m)":0.2,
+    "Number of Runups":5,
+    "Tsunami Intensity":-1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.75,-14.25 ]
+    },
+    "properties": {
+    "Year":1950,
+    "Tsunami Event Validity":2,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"PERU",
+    "Location Name":"S. PERU",
+    "Maximum Water Height (m)":0.7,
+    "Number of Runups":1,
+    "Tsunami Intensity":0,
+    "Total Deaths":4,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -156,19.5 ]
+    },
+    "properties": {
+    "Year":1951,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.9,
+    "Deposits":0,
+    "Country":"USA",
+    "Location Name":"HAWAII",
+    "Maximum Water Height (m)":3.6,
+    "Number of Runups":7,
+    "Tsunami Intensity":0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.85,42.15 ]
+    },
+    "properties": {
+    "Year":1952,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8.1,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SE. HOKKAIDO ISLAND",
+    "Maximum Water Height (m)":6.54,
+    "Number of Runups":218,
+    "Tsunami Intensity":2,
+    "Total Deaths":33,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.6,41.7 ]
+    },
+    "properties": {
+    "Year":1952,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SE. HOKKAIDO ISLAND",
+    "Maximum Water Height (m)":0.3,
+    "Number of Runups":4,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155,19.1 ]
+    },
+    "properties": {
+    "Year":1952,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":4.5,
+    "Deposits":0,
+    "Country":"USA",
+    "Location Name":"HAWAII",
+    "Maximum Water Height (m)":3,
+    "Number of Runups":2,
+    "Tsunami Intensity":0,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.3,10.3 ]
+    },
+    "properties": {
+    "Year":1952,
+    "Tsunami Event Validity":2,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.9,
+    "Deposits":0,
+    "Country":"COSTA RICA",
+    "Location Name":"COSTA RICA-PANAMA",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":2,
+    "Tsunami Intensity":-3,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 160.057,52.755 ]
+    },
+    "properties": {
+    "Year":1952,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":9,
+    "Deposits":6,
+    "Country":"RUSSIA",
+    "Location Name":"KAMCHATKA",
+    "Maximum Water Height (m)":23,
+    "Number of Runups":327,
+    "Tsunami Intensity":4,
+    "Total Deaths":10000,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.7,34 ]
+    },
+    "properties": {
+    "Year":1953,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.4,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"KASHIMA, JAPAN",
+    "Maximum Water Height (m)":3,
+    "Number of Runups":33,
+    "Tsunami Intensity":1.5,
+    "Total Deaths":1,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.6,-3.4 ]
+    },
+    "properties": {
+    "Year":1953,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.4,
+    "Deposits":0,
+    "Country":"PERU",
+    "Location Name":"N. PERU",
+    "Maximum Water Height (m)":1,
+    "Number of Runups":2,
+    "Tsunami Intensity":0.5,
+    "Total Deaths":6,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72,-30 ]
+    },
+    "properties": {
+    "Year":1955,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.1,
+    "Deposits":0,
+    "Country":"CHILE",
+    "Location Name":"CENTRAL CHILE",
+    "Maximum Water Height (m)":1,
+    "Number of Runups":7,
+    "Tsunami Intensity":1,
+    "Total Deaths":1,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.1,44.3 ]
+    },
+    "properties": {
+    "Year":1956,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.3,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"NE. HOKKAIDO ISLAND",
+    "Maximum Water Height (m)":0.4,
+    "Number of Runups":1,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.957,36.664 ]
+    },
+    "properties": {
+    "Year":1956,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.7,
+    "Deposits":3,
+    "Country":"GREECE",
+    "Location Name":"CYCLADES",
+    "Maximum Water Height (m)":30,
+    "Number of Runups":100,
+    "Tsunami Intensity":5,
+    "Total Deaths":56,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23,39.5 ]
+    },
+    "properties": {
+    "Year":1956,
+    "Tsunami Event Validity":2,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":5.8,
+    "Deposits":0,
+    "Country":"GREECE",
+    "Location Name":"NORTH AEGEAN",
+    "Maximum Water Height (m)":1.2,
+    "Number of Runups":1,
+    "Tsunami Intensity":2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -175.629,51.292 ]
+    },
+    "properties": {
+    "Year":1957,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8.6,
+    "Deposits":6,
+    "Country":"USA",
+    "Location Name":"ANDREANOF ISLANDS, AK",
+    "Maximum Water Height (m)":32,
+    "Number of Runups":332,
+    "Tsunami Intensity":3,
+    "Total Deaths":2,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1,16.5 ]
+    },
+    "properties": {
+    "Year":1957,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.9,
+    "Deposits":0,
+    "Country":"MEXICO",
+    "Location Name":"S. MEXICO",
+    "Maximum Water Height (m)":1.3,
+    "Number of Runups":3,
+    "Tsunami Intensity":0.5,
+    "Total Deaths":65,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 156.1,48.6 ]
+    },
+    "properties": {
+    "Year":1958,
+    "Tsunami Event Validity":2,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":5,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"N. KURIL ISLANDS",
+    "Maximum Water Height (m)":0.23,
+    "Number of Runups":1,
+    "Tsunami Intensity":-1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.54,44.53 ]
+    },
+    "properties": {
+    "Year":1958,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8.3,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":5,
+    "Number of Runups":60,
+    "Tsunami Intensity":2.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.8,44.2 ]
+    },
+    "properties": {
+    "Year":1958,
+    "Tsunami Event Validity":2,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":1,
+    "Number of Runups":8,
+    "Tsunami Intensity":-1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.2,37.5 ]
+    },
+    "properties": {
+    "Year":1959,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.8,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SANRIKU",
+    "Maximum Water Height (m)":0.8,
+    "Number of Runups":9,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.5,-4 ]
+    },
+    "properties": {
+    "Year":1959,
+    "Tsunami Event Validity":1,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.4,
+    "Deposits":0,
+    "Country":"PERU",
+    "Location Name":"N. PERU",
+    "Maximum Water Height (m)":0.4,
+    "Number of Runups":1,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149,44.3 ]
+    },
+    "properties": {
+    "Year":1959,
+    "Tsunami Event Validity":2,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":5,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":1,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 159.5,52.5 ]
+    },
+    "properties": {
+    "Year":1959,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8.2,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"KAMCHATKA",
+    "Maximum Water Height (m)":0.2,
+    "Number of Runups":7,
+    "Tsunami Intensity":1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.2,37.5 ]
+    },
+    "properties": {
+    "Year":1959,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.7,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SANRIKU",
+    "Maximum Water Height (m)":0.11,
+    "Number of Runups":8,
+    "Tsunami Intensity":-4,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.75,-15.75 ]
+    },
+    "properties": {
+    "Year":1960,
+    "Tsunami Event Validity":1,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.8,
+    "Deposits":0,
+    "Country":"PERU",
+    "Location Name":"S. PERU",
+    "Maximum Water Height (m)":5.7,
+    "Number of Runups":1,
+    "Tsunami Intensity":3,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.4,39.8 ]
+    },
+    "properties": {
+    "Year":1960,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.5,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SANRIKU",
+    "Maximum Water Height (m)":1,
+    "Number of Runups":19,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7,39.4 ]
+    },
+    "properties": {
+    "Year":1960,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.7,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SANRIKU",
+    "Maximum Water Height (m)":0.75,
+    "Number of Runups":12,
+    "Tsunami Intensity":-2.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.243,-37.872 ]
+    },
+    "properties": {
+    "Year":1960,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8.2,
+    "Deposits":0,
+    "Country":"CHILE",
+    "Location Name":"CENTRAL CHILE",
+    "Maximum Water Height (m)":0.5,
+    "Number of Runups":7,
+    "Tsunami Intensity":-1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.407,-38.143 ]
+    },
+    "properties": {
+    "Year":1960,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":9.5,
+    "Deposits":26,
+    "Country":"CHILE",
+    "Location Name":"SOUTHERN CHILE",
+    "Maximum Water Height (m)":25,
+    "Number of Runups":1277,
+    "Tsunami Intensity":4,
+    "Total Deaths":2226,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.5,40.3 ]
+    },
+    "properties": {
+    "Year":1960,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.7,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SANRIKU",
+    "Maximum Water Height (m)":0.3,
+    "Number of Runups":5,
+    "Tsunami Intensity":-3,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.7,-6.8 ]
+    },
+    "properties": {
+    "Year":1960,
+    "Tsunami Event Validity":3,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.8,
+    "Deposits":0,
+    "Country":"PERU",
+    "Location Name":"N. PERU",
+    "Maximum Water Height (m)":9,
+    "Number of Runups":19,
+    "Tsunami Intensity":4,
+    "Total Deaths":66,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.3,36 ]
+    },
+    "properties": {
+    "Year":1961,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.8,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"KASHIMA, JAPAN",
+    "Maximum Water Height (m)":0.4,
+    "Number of Runups":5,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.9,36 ]
+    },
+    "properties": {
+    "Year":1961,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.4,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"KASHIMA, JAPAN",
+    "Maximum Water Height (m)":0.4,
+    "Number of Runups":2,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.9,36.2 ]
+    },
+    "properties": {
+    "Year":1961,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.5,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"KASHIMA, JAPAN",
+    "Maximum Water Height (m)":0.4,
+    "Number of Runups":4,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.9,43.2 ]
+    },
+    "properties": {
+    "Year":1961,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.6,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":1,
+    "Number of Runups":5,
+    "Tsunami Intensity":-0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.8,31.6 ]
+    },
+    "properties": {
+    "Year":1961,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.6,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SEIKAIDO",
+    "Maximum Water Height (m)":0.65,
+    "Number of Runups":34,
+    "Tsunami Intensity":-0.5,
+    "Total Deaths":2,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.8,29.6 ]
+    },
+    "properties": {
+    "Year":1961,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.6,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"RYUKYU ISLANDS",
+    "Maximum Water Height (m)":0.2,
+    "Number of Runups":6,
+    "Tsunami Intensity":-3,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.411,-18.421 ]
+    },
+    "properties": {
+    "Year":1961,
+    "Tsunami Event Validity":3,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.3,
+    "Deposits":0,
+    "Country":"VANUATU",
+    "Location Name":"VANUATU ISLANDS",
+    "Maximum Water Height (m)":0.9,
+    "Number of Runups":2,
+    "Tsunami Intensity":-0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.6,42.9 ]
+    },
+    "properties": {
+    "Year":1961,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SE. HOKKAIDO ISLAND",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":9,
+    "Tsunami Intensity":-4,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.7,42.7 ]
+    },
+    "properties": {
+    "Year":1961,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.9,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SE. HOKKAIDO ISLAND",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":9,
+    "Tsunami Intensity":-3.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.741,38.073 ]
+    },
+    "properties": {
+    "Year":1962,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.2,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SANRIKU",
+    "Maximum Water Height (m)":1,
+    "Number of Runups":12,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.9,42.2 ]
+    },
+    "properties": {
+    "Year":1962,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SE. HOKKAIDO ISLAND",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":10,
+    "Tsunami Intensity":-3.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.6,17.2 ]
+    },
+    "properties": {
+    "Year":1962,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"MEXICO",
+    "Location Name":"S. MEXICO",
+    "Maximum Water Height (m)":0.81,
+    "Number of Runups":1,
+    "Tsunami Intensity":0,
+    "Total Deaths":4,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.4,41.8 ]
+    },
+    "properties": {
+    "Year":1962,
+    "Tsunami Event Validity":2,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":5.7,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"OFF COAST OF HONSHU ISLAND",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":1,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.1,24.4 ]
+    },
+    "properties": {
+    "Year":1963,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.3,
+    "Deposits":0,
+    "Country":"TAIWAN",
+    "Location Name":"E. TAIWAN-RYUKYU ISLANDS",
+    "Maximum Water Height (m)":0.2,
+    "Number of Runups":2,
+    "Tsunami Intensity":-2,
+    "Total Deaths":15,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.159,40.698 ]
+    },
+    "properties": {
+    "Year":1963,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.2,
+    "Deposits":0,
+    "Country":"TURKEY",
+    "Location Name":"MARMARA SEA",
+    "Maximum Water Height (m)":1,
+    "Number of Runups":1,
+    "Tsunami Intensity":3,
+    "Total Deaths":1,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.272,44.426 ]
+    },
+    "properties": {
+    "Year":1963,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.1,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":0.12,
+    "Number of Runups":3,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.798,44.772 ]
+    },
+    "properties": {
+    "Year":1963,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8.5,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":4.5,
+    "Number of Runups":90,
+    "Tsunami Intensity":2.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.563,44.772 ]
+    },
+    "properties": {
+    "Year":1963,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.9,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":15,
+    "Number of Runups":22,
+    "Tsunami Intensity":3,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,40.3 ]
+    },
+    "properties": {
+    "Year":1964,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.9,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"NW. HONSHU ISLAND",
+    "Maximum Water Height (m)":0.6,
+    "Number of Runups":35,
+    "Tsunami Intensity":0,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.2,38.65 ]
+    },
+    "properties": {
+    "Year":1964,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.5,
+    "Deposits":1,
+    "Country":"JAPAN",
+    "Location Name":"NW. HONSHU ISLAND",
+    "Maximum Water Height (m)":5.8,
+    "Number of Runups":168,
+    "Tsunami Intensity":2,
+    "Total Deaths":26,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.876,47.159 ]
+    },
+    "properties": {
+    "Year":1964,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.8,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":0.08,
+    "Number of Runups":5,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.9,40.4 ]
+    },
+    "properties": {
+    "Year":1964,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.3,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"NW. HONSHU ISLAND",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":4,
+    "Tsunami Intensity":-3,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 178.55,51.29 ]
+    },
+    "properties": {
+    "Year":1965,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8.7,
+    "Deposits":0,
+    "Country":"USA",
+    "Location Name":"RAT ISLANDS, ALEUTIAN ISLANDS, AK",
+    "Maximum Water Height (m)":10.7,
+    "Number of Runups":83,
+    "Tsunami Intensity":2.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 177.93,50.32 ]
+    },
+    "properties": {
+    "Year":1965,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.6,
+    "Deposits":0,
+    "Country":"USA",
+    "Location Name":"RAT ISLANDS, ALEUTIAN ISLANDS, AK",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":3,
+    "Tsunami Intensity":-1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139,34.9 ]
+    },
+    "properties": {
+    "Year":1965,
+    "Tsunami Event Validity":-1,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"AICHI PREFECTURE",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":2,
+    "Tsunami Intensity":-4,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.7,44.7 ]
+    },
+    "properties": {
+    "Year":1965,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.2,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":6,
+    "Tsunami Intensity":-3,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -167.55,53.03 ]
+    },
+    "properties": {
+    "Year":1965,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.5,
+    "Deposits":0,
+    "Country":"USA",
+    "Location Name":"FOX ISLANDS, ALEUTIAN ISLANDS, AK",
+    "Maximum Water Height (m)":0.08,
+    "Number of Runups":3,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 167.2,-15.8 ]
+    },
+    "properties": {
+    "Year":1965,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"VANUATU",
+    "Location Name":"VANUATU ISLANDS",
+    "Maximum Water Height (m)":7,
+    "Number of Runups":4,
+    "Tsunami Intensity":2.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.8,-15.9 ]
+    },
+    "properties": {
+    "Year":1965,
+    "Tsunami Event Validity":2,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.3,
+    "Deposits":0,
+    "Country":"VANUATU",
+    "Location Name":"VANUATU ISLANDS",
+    "Maximum Water Height (m)":2,
+    "Number of Runups":1,
+    "Tsunami Intensity":1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.6,24.1 ]
+    },
+    "properties": {
+    "Year":1966,
+    "Tsunami Event Validity":3,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.6,
+    "Deposits":0,
+    "Country":"TAIWAN",
+    "Location Name":"E. TAIWAN-RYUKYU ISLANDS",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":5,
+    "Tsunami Intensity":0,
+    "Total Deaths":7,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 160.883,-10.343 ]
+    },
+    "properties": {
+    "Year":1966,
+    "Tsunami Event Validity":3,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.1,
+    "Deposits":0,
+    "Country":"SOLOMON ISLANDS",
+    "Location Name":"SOLOMON ISLANDS",
+    "Maximum Water Height (m)":0.2,
+    "Number of Runups":3,
+    "Tsunami Intensity":1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37,44.75 ]
+    },
+    "properties": {
+    "Year":1966,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":5.5,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"BLACK SEA",
+    "Maximum Water Height (m)":0.2,
+    "Number of Runups":0,
+    "Tsunami Intensity":1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.638,-10.748 ]
+    },
+    "properties": {
+    "Year":1966,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8.1,
+    "Deposits":0,
+    "Country":"PERU",
+    "Location Name":"CENTRAL PERU",
+    "Maximum Water Height (m)":3,
+    "Number of Runups":60,
+    "Tsunami Intensity":1.5,
+    "Total Deaths":110,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.7,-25.5 ]
+    },
+    "properties": {
+    "Year":1966,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.8,
+    "Deposits":0,
+    "Country":"CHILE",
+    "Location Name":"NORTHERN CHILE",
+    "Maximum Water Height (m)":0.42,
+    "Number of Runups":13,
+    "Tsunami Intensity":0.5,
+    "Total Deaths":3,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.445,-11.893 ]
+    },
+    "properties": {
+    "Year":1966,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.8,
+    "Deposits":0,
+    "Country":"SOLOMON ISLANDS",
+    "Location Name":"SANTA CRUZ ISLANDS",
+    "Maximum Water Height (m)":2,
+    "Number of Runups":7,
+    "Tsunami Intensity":1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.684,-12.334 ]
+    },
+    "properties": {
+    "Year":1966,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.2,
+    "Deposits":0,
+    "Country":"SOLOMON ISLANDS",
+    "Location Name":"SANTA CRUZ ISLANDS",
+    "Maximum Water Height (m)":0.8,
+    "Number of Runups":1,
+    "Tsunami Intensity":0,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8,-10.6 ]
+    },
+    "properties": {
+    "Year":1967,
+    "Tsunami Event Validity":2,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"PERU",
+    "Location Name":"CENTRAL PERU",
+    "Maximum Water Height (m)":2,
+    "Number of Runups":2,
+    "Tsunami Intensity":-1.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.701,43.586 ]
+    },
+    "properties": {
+    "Year":1968,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.3,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":0.18,
+    "Number of Runups":17,
+    "Tsunami Intensity":-1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.957,39.368 ]
+    },
+    "properties": {
+    "Year":1968,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.2,
+    "Deposits":0,
+    "Country":"GREECE",
+    "Location Name":"LEMNOS ISLAND, NORTH AEGEAN SEA",
+    "Maximum Water Height (m)":1.2,
+    "Number of Runups":3,
+    "Tsunami Intensity":3,
+    "Total Deaths":20,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.5,32.3 ]
+    },
+    "properties": {
+    "Year":1968,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.5,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SEIKAIDO",
+    "Maximum Water Height (m)":3.07,
+    "Number of Runups":62,
+    "Tsunami Intensity":1,
+    "Total Deaths":1,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8,44.08 ]
+    },
+    "properties": {
+    "Year":1968,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":4.6,
+    "Deposits":0,
+    "Country":"ITALY",
+    "Location Name":"LIGURIA-COTE D'AZUR",
+    "Maximum Water Height (m)":3,
+    "Number of Runups":1,
+    "Tsunami Intensity":2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.2,40.8 ]
+    },
+    "properties": {
+    "Year":1968,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8.2,
+    "Deposits":1,
+    "Country":"JAPAN",
+    "Location Name":"OFF EAST COAST OF HONSHU ISLAND",
+    "Maximum Water Height (m)":6,
+    "Number of Runups":329,
+    "Tsunami Intensity":2,
+    "Total Deaths":52,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.7,41.5 ]
+    },
+    "properties": {
+    "Year":1968,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.5,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"OFF COAST OF HONSHU ISLAND",
+    "Maximum Water Height (m)":0.58,
+    "Number of Runups":8,
+    "Tsunami Intensity":-0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.1,39.4 ]
+    },
+    "properties": {
+    "Year":1968,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.2,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SANRIKU",
+    "Maximum Water Height (m)":0.95,
+    "Number of Runups":28,
+    "Tsunami Intensity":0,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.2,33.3 ]
+    },
+    "properties": {
+    "Year":1968,
+    "Tsunami Event Validity":1,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.5,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SEIKAIDO-NANKAIDO",
+    "Maximum Water Height (m)":0.03,
+    "Number of Runups":1,
+    "Tsunami Intensity":0,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.2,1.4 ]
+    },
+    "properties": {
+    "Year":1968,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.6,
+    "Deposits":0,
+    "Country":"INDONESIA",
+    "Location Name":"N. MOLUCCAS ISLANDS",
+    "Maximum Water Height (m)":0.4,
+    "Number of Runups":22,
+    "Tsunami Intensity":1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.8,0.2 ]
+    },
+    "properties": {
+    "Year":1968,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.8,
+    "Deposits":0,
+    "Country":"INDONESIA",
+    "Location Name":"BANDA SEA",
+    "Maximum Water Height (m)":10,
+    "Number of Runups":7,
+    "Tsunami Intensity":2.5,
+    "Total Deaths":200,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.6,15.6 ]
+    },
+    "properties": {
+    "Year":1968,
+    "Tsunami Event Validity":1,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"MEXICO",
+    "Location Name":"S. MEXICO-GUATEMALA-NICARAGUA",
+    "Maximum Water Height (m)":2,
+    "Number of Runups":0,
+    "Tsunami Intensity":1,
+    "Total Deaths":15,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.9,-3.1 ]
+    },
+    "properties": {
+    "Year":1969,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.9,
+    "Deposits":0,
+    "Country":"INDONESIA",
+    "Location Name":"MAKASSAR STRAIT",
+    "Maximum Water Height (m)":4,
+    "Number of Runups":5,
+    "Tsunami Intensity":2,
+    "Total Deaths":664,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.1,32.2 ]
+    },
+    "properties": {
+    "Year":1969,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.5,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"RYUKYU ISLANDS",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":6,
+    "Tsunami Intensity":-3,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.9,43.6 ]
+    },
+    "properties": {
+    "Year":1969,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8.2,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":5,
+    "Number of Runups":75,
+    "Tsunami Intensity":2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 163.6,57.7 ]
+    },
+    "properties": {
+    "Year":1969,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.7,
+    "Deposits":8,
+    "Country":"RUSSIA",
+    "Location Name":"KAMCHATKA",
+    "Maximum Water Height (m)":15,
+    "Number of Runups":16,
+    "Tsunami Intensity":3,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.34,43.84 ]
+    },
+    "properties": {
+    "Year":1970,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":5.1,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"BLACK SEA",
+    "Maximum Water Height (m)":0.8,
+    "Number of Runups":1,
+    "Tsunami Intensity":2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -177.173,51.228 ]
+    },
+    "properties": {
+    "Year":1971,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.1,
+    "Deposits":0,
+    "Country":"USA",
+    "Location Name":"ANDREANOF ISLANDS, AK",
+    "Maximum Water Height (m)":0.04,
+    "Number of Runups":1,
+    "Tsunami Intensity":-3,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2,-32.5 ]
+    },
+    "properties": {
+    "Year":1971,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.8,
+    "Deposits":0,
+    "Country":"CHILE",
+    "Location Name":"CENTRAL CHILE",
+    "Maximum Water Height (m)":1.2,
+    "Number of Runups":1,
+    "Tsunami Intensity":0,
+    "Total Deaths":83,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.9,-5.5 ]
+    },
+    "properties": {
+    "Year":1971,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.9,
+    "Deposits":0,
+    "Country":"PAPUA NEW GUINEA",
+    "Location Name":"SOLOMON SEA",
+    "Maximum Water Height (m)":6,
+    "Number of Runups":32,
+    "Tsunami Intensity":1,
+    "Total Deaths":3,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.2,-4.9 ]
+    },
+    "properties": {
+    "Year":1971,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.9,
+    "Deposits":0,
+    "Country":"PAPUA NEW GUINEA",
+    "Location Name":"SOLOMON SEA",
+    "Maximum Water Height (m)":10,
+    "Number of Runups":39,
+    "Tsunami Intensity":1.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.5,41.4 ]
+    },
+    "properties": {
+    "Year":1971,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.3,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"JAPAN TRENCH",
+    "Maximum Water Height (m)":0.51,
+    "Number of Runups":17,
+    "Tsunami Intensity":-0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.2,46.5 ]
+    },
+    "properties": {
+    "Year":1971,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.1,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"TATAR STRAIT",
+    "Maximum Water Height (m)":2,
+    "Number of Runups":29,
+    "Tsunami Intensity":1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.1,46.4 ]
+    },
+    "properties": {
+    "Year":1971,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.6,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"TATAR STRAIT",
+    "Maximum Water Height (m)":0.09,
+    "Number of Runups":2,
+    "Tsunami Intensity":-3,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.9,46.3 ]
+    },
+    "properties": {
+    "Year":1971,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.2,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"TATAR STRAIT",
+    "Maximum Water Height (m)":0.07,
+    "Number of Runups":1,
+    "Tsunami Intensity":-3,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.1,46.4 ]
+    },
+    "properties": {
+    "Year":1971,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"TATAR STRAIT",
+    "Maximum Water Height (m)":0.03,
+    "Number of Runups":1,
+    "Tsunami Intensity":-4,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.3,22.5 ]
+    },
+    "properties": {
+    "Year":1972,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.5,
+    "Deposits":0,
+    "Country":"TAIWAN",
+    "Location Name":"E. TAIWAN",
+    "Maximum Water Height (m)":0.05,
+    "Number of Runups":2,
+    "Tsunami Intensity":-2,
+    "Total Deaths":1,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.8,33.3 ]
+    },
+    "properties": {
+    "Year":1972,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.4,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"EAST OFF HACHIJO ISLAND",
+    "Maximum Water Height (m)":0.42,
+    "Number of Runups":28,
+    "Tsunami Intensity":0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.7,33.3 ]
+    },
+    "properties": {
+    "Year":1972,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.4,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"CHICHI JIMA",
+    "Maximum Water Height (m)":0.5,
+    "Number of Runups":39,
+    "Tsunami Intensity":-1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 156.6,50.5 ]
+    },
+    "properties": {
+    "Year":1973,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.2,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"N. KURIL ISLANDS",
+    "Maximum Water Height (m)":1.5,
+    "Number of Runups":7,
+    "Tsunami Intensity":0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.8,43.2 ]
+    },
+    "properties": {
+    "Year":1973,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.7,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"HOKKAIDO ISLAND",
+    "Maximum Water Height (m)":5.96,
+    "Number of Runups":72,
+    "Tsunami Intensity":1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5,-32.5 ]
+    },
+    "properties": {
+    "Year":1973,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.7,
+    "Deposits":0,
+    "Country":"CHILE",
+    "Location Name":"CENTRAL CHILE",
+    "Maximum Water Height (m)":0.4,
+    "Number of Runups":1,
+    "Tsunami Intensity":-1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 155.9,-7.5 ]
+    },
+    "properties": {
+    "Year":1974,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"SOLOMON ISLANDS",
+    "Location Name":"SOLOMON ISLANDS",
+    "Maximum Water Height (m)":1.5,
+    "Number of Runups":2,
+    "Tsunami Intensity":1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 155.6,-7.4 ]
+    },
+    "properties": {
+    "Year":1974,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.1,
+    "Deposits":0,
+    "Country":"SOLOMON ISLANDS",
+    "Location Name":"SOLOMON ISLANDS",
+    "Maximum Water Height (m)":4.5,
+    "Number of Runups":4,
+    "Tsunami Intensity":2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.7,34.6 ]
+    },
+    "properties": {
+    "Year":1974,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.7,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"TOKAIDO",
+    "Maximum Water Height (m)":0.2,
+    "Number of Runups":5,
+    "Tsunami Intensity":-2.5,
+    "Total Deaths":30,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.7,43.2 ]
+    },
+    "properties": {
+    "Year":1974,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.7,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":0.37,
+    "Number of Runups":3,
+    "Tsunami Intensity":-1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.79,-12.27 ]
+    },
+    "properties": {
+    "Year":1974,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8.1,
+    "Deposits":0,
+    "Country":"PERU",
+    "Location Name":"CENTRAL PERU",
+    "Maximum Water Height (m)":0.92,
+    "Number of Runups":35,
+    "Tsunami Intensity":1,
+    "Total Deaths":78,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.734,43.024 ]
+    },
+    "properties": {
+    "Year":1975,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":5.5,
+    "Number of Runups":52,
+    "Tsunami Intensity":2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 155.054,-6.59 ]
+    },
+    "properties": {
+    "Year":1975,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.9,
+    "Deposits":0,
+    "Country":"PAPUA NEW GUINEA",
+    "Location Name":"SOLOMON SEA",
+    "Maximum Water Height (m)":2,
+    "Number of Runups":18,
+    "Tsunami Intensity":1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.993,12.54 ]
+    },
+    "properties": {
+    "Year":1975,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.6,
+    "Deposits":0,
+    "Country":"PHILIPPINES",
+    "Location Name":"PHILIPPINE TRENCH",
+    "Maximum Water Height (m)":3,
+    "Number of Runups":28,
+    "Tsunami Intensity":-1.5,
+    "Total Deaths":1,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.123,44.915 ]
+    },
+    "properties": {
+    "Year":1976,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":0.38,
+    "Number of Runups":5,
+    "Tsunami Intensity":-2.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.09,6.292 ]
+    },
+    "properties": {
+    "Year":1976,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8,
+    "Deposits":0,
+    "Country":"PHILIPPINES",
+    "Location Name":"MORO GULF",
+    "Maximum Water Height (m)":9,
+    "Number of Runups":28,
+    "Tsunami Intensity":2.5,
+    "Total Deaths":8000,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -172.095,-16.696 ]
+    },
+    "properties": {
+    "Year":1977,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.6,
+    "Deposits":0,
+    "Country":"SAMOA",
+    "Location Name":"SAMOA ISLANDS",
+    "Maximum Water Height (m)":0.08,
+    "Number of Runups":2,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 163.323,-9.828 ]
+    },
+    "properties": {
+    "Year":1977,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.8,
+    "Deposits":0,
+    "Country":"SOLOMON ISLANDS",
+    "Location Name":"SOLOMON ISLANDS",
+    "Maximum Water Height (m)":0.15,
+    "Number of Runups":6,
+    "Tsunami Intensity":-1,
+    "Total Deaths":34,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 160.731,-9.965 ]
+    },
+    "properties": {
+    "Year":1977,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8.1,
+    "Deposits":0,
+    "Country":"SOLOMON ISLANDS",
+    "Location Name":"SOLOMON ISLANDS",
+    "Maximum Water Height (m)":0.04,
+    "Number of Runups":5,
+    "Tsunami Intensity":-1.5,
+    "Total Deaths":18,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.464,-11.085 ]
+    },
+    "properties": {
+    "Year":1977,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8,
+    "Deposits":0,
+    "Country":"INDONESIA",
+    "Location Name":"SUNDA ISLANDS",
+    "Maximum Water Height (m)":15,
+    "Number of Runups":16,
+    "Tsunami Intensity":3,
+    "Total Deaths":189,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.23,-1.081 ]
+    },
+    "properties": {
+    "Year":1977,
+    "Tsunami Event Validity":2,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":5.5,
+    "Deposits":0,
+    "Country":"PAPUA NEW GUINEA",
+    "Location Name":"ADMIRALTY ISLANDS",
+    "Maximum Water Height (m)":0.6,
+    "Number of Runups":1,
+    "Tsunami Intensity":-0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -175.406,-25.856 ]
+    },
+    "properties": {
+    "Year":1977,
+    "Tsunami Event Validity":2,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.2,
+    "Deposits":0,
+    "Country":"TONGA",
+    "Location Name":"TONGA TRENCH",
+    "Maximum Water Height (m)":0.03,
+    "Number of Runups":2,
+    "Tsunami Intensity":-3,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.002,44.026 ]
+    },
+    "properties": {
+    "Year":1978,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.7,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":0.07,
+    "Number of Runups":2,
+    "Tsunami Intensity":-2.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.029,44.14 ]
+    },
+    "properties": {
+    "Year":1978,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.6,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":0.05,
+    "Number of Runups":2,
+    "Tsunami Intensity":-3,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.971,44.209 ]
+    },
+    "properties": {
+    "Year":1978,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.8,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":0.17,
+    "Number of Runups":4,
+    "Tsunami Intensity":-1.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.439,44.932 ]
+    },
+    "properties": {
+    "Year":1978,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.5,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":0.3,
+    "Number of Runups":15,
+    "Tsunami Intensity":0,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.862,44.244 ]
+    },
+    "properties": {
+    "Year":1978,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.6,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":0.65,
+    "Number of Runups":20,
+    "Tsunami Intensity":0,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.03,38.19 ]
+    },
+    "properties": {
+    "Year":1978,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.7,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SANRIKU",
+    "Maximum Water Height (m)":0.6,
+    "Number of Runups":31,
+    "Tsunami Intensity":0.5,
+    "Total Deaths":28,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.229,40.739 ]
+    },
+    "properties": {
+    "Year":1978,
+    "Tsunami Event Validity":2,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.4,
+    "Deposits":0,
+    "Country":"GREECE",
+    "Location Name":"THESSALONIKI (SALONICA), GREECE",
+    "Maximum Water Height (m)":0.45,
+    "Number of Runups":5,
+    "Tsunami Intensity":2,
+    "Total Deaths":50,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.512,22.282 ]
+    },
+    "properties": {
+    "Year":1978,
+    "Tsunami Event Validity":3,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.4,
+    "Deposits":0,
+    "Country":"TAIWAN",
+    "Location Name":"TAIWAN",
+    "Maximum Water Height (m)":0.05,
+    "Number of Runups":1,
+    "Tsunami Intensity":-1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.98,36.37 ]
+    },
+    "properties": {
+    "Year":1978,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":4.4,
+    "Deposits":0,
+    "Country":"SPAIN",
+    "Location Name":"CADIZ",
+    "Maximum Water Height (m)":0.12,
+    "Number of Runups":1,
+    "Tsunami Intensity":1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.209,42.096 ]
+    },
+    "properties": {
+    "Year":1979,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.9,
+    "Deposits":0,
+    "Country":"MONTENEGRO",
+    "Location Name":"MONTENEGRO",
+    "Maximum Water Height (m)":0.6,
+    "Number of Runups":3,
+    "Tsunami Intensity":1,
+    "Total Deaths":131,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.358,1.598 ]
+    },
+    "properties": {
+    "Year":1979,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.7,
+    "Deposits":1,
+    "Country":"COLOMBIA",
+    "Location Name":"COLOMBIA: OFF SHORE, PACIFIC OCEAN",
+    "Maximum Water Height (m)":6,
+    "Number of Runups":53,
+    "Tsunami Intensity":2.5,
+    "Total Deaths":600,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -27.75,38.727 ]
+    },
+    "properties": {
+    "Year":1980,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.9,
+    "Deposits":0,
+    "Country":"PORTUGAL",
+    "Location Name":"AZORES",
+    "Maximum Water Height (m)":0.41,
+    "Number of Runups":2,
+    "Tsunami Intensity":1,
+    "Total Deaths":69,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.753,43.53 ]
+    },
+    "properties": {
+    "Year":1980,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":0.16,
+    "Number of Runups":10,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.934,38.222 ]
+    },
+    "properties": {
+    "Year":1981,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.7,
+    "Deposits":0,
+    "Country":"GREECE",
+    "Location Name":"ATHENS-EASTERN GULF OF CORINTH",
+    "Maximum Water Height (m)":0.3,
+    "Number of Runups":4,
+    "Tsunami Intensity":3,
+    "Total Deaths":22,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -173.085,-14.96 ]
+    },
+    "properties": {
+    "Year":1981,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.7,
+    "Deposits":0,
+    "Country":"SAMOA",
+    "Location Name":"SAMOA ISLANDS",
+    "Maximum Water Height (m)":1,
+    "Number of Runups":4,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.702,36.194 ]
+    },
+    "properties": {
+    "Year":1982,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.2,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"IBARAKI, JAPAN",
+    "Maximum Water Height (m)":0.4,
+    "Number of Runups":22,
+    "Tsunami Intensity":-1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.434,33.826 ]
+    },
+    "properties": {
+    "Year":1982,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.4,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"S. OF HONSHU ISLAND",
+    "Maximum Water Height (m)":0.19,
+    "Number of Runups":1,
+    "Tsunami Intensity":-1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.924,-4.056 ]
+    },
+    "properties": {
+    "Year":1983,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.9,
+    "Deposits":0,
+    "Country":"INDONESIA",
+    "Location Name":"BANDA SEA",
+    "Maximum Water Height (m)":3,
+    "Number of Runups":1,
+    "Tsunami Intensity":1.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.102,40.462 ]
+    },
+    "properties": {
+    "Year":1983,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.8,
+    "Deposits":6,
+    "Country":"JAPAN",
+    "Location Name":"NOSHIRO, JAPAN",
+    "Maximum Water Height (m)":14.93,
+    "Number of Runups":230,
+    "Tsunami Intensity":2,
+    "Total Deaths":104,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.563,-26.535 ]
+    },
+    "properties": {
+    "Year":1983,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.7,
+    "Deposits":0,
+    "Country":"CHILE",
+    "Location Name":"NORTHERN CHILE",
+    "Maximum Water Height (m)":0.2,
+    "Number of Runups":1,
+    "Tsunami Intensity":0.2,
+    "Total Deaths":5,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.192,44.117 ]
+    },
+    "properties": {
+    "Year":1984,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.2,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":0.2,
+    "Number of Runups":3,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 158.442,-9.094 ]
+    },
+    "properties": {
+    "Year":1991,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.2,
+    "Deposits":0,
+    "Country":"SOLOMON ISLANDS",
+    "Location Name":"SOLOMON ISLANDS",
+    "Maximum Water Height (m)":0.15,
+    "Number of Runups":2,
+    "Tsunami Intensity":-2.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.021,45.533 ]
+    },
+    "properties": {
+    "Year":1991,
+    "Tsunami Event Validity":1,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.6,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":0.52,
+    "Number of Runups":6,
+    "Tsunami Intensity":0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.316,40.368 ]
+    },
+    "properties": {
+    "Year":1992,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.2,
+    "Deposits":0,
+    "Country":"USA",
+    "Location Name":"CAPE MENDOCINO, N. CALIFORNIA",
+    "Maximum Water Height (m)":1.8,
+    "Number of Runups":14,
+    "Tsunami Intensity":0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.33,39.419 ]
+    },
+    "properties": {
+    "Year":1992,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"HONSHU ISLAND",
+    "Maximum Water Height (m)":0.3,
+    "Number of Runups":4,
+    "Tsunami Intensity":-0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.386,11.727 ]
+    },
+    "properties": {
+    "Year":1992,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.7,
+    "Deposits":8,
+    "Country":"NICARAGUA",
+    "Location Name":"NICARAGUA",
+    "Maximum Water Height (m)":9.9,
+    "Number of Runups":81,
+    "Tsunami Intensity":2.8,
+    "Total Deaths":170,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.245,37.634 ]
+    },
+    "properties": {
+    "Year":1993,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.3,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"HONSHU ISLAND",
+    "Maximum Water Height (m)":0.5,
+    "Number of Runups":1,
+    "Tsunami Intensity":-0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 157.829,51.218 ]
+    },
+    "properties": {
+    "Year":1993,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.5,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"KAMCHATKA",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":6,
+    "Tsunami Intensity":-0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.197,42.851 ]
+    },
+    "properties": {
+    "Year":1993,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.7,
+    "Deposits":19,
+    "Country":"JAPAN",
+    "Location Name":"SEA OF JAPAN",
+    "Maximum Water Height (m)":32,
+    "Number of Runups":196,
+    "Tsunami Intensity":3.1,
+    "Total Deaths":231,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 158.647,51.934 ]
+    },
+    "properties": {
+    "Year":1993,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"KAMCHATKA",
+    "Maximum Water Height (m)":0.05,
+    "Number of Runups":1,
+    "Tsunami Intensity":-3,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.537,34.213 ]
+    },
+    "properties": {
+    "Year":1994,
+    "Tsunami Event Validity":3,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.7,
+    "Deposits":0,
+    "Country":"USA",
+    "Location Name":"WEST COAST, USA",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":0,
+    "Tsunami Intensity":-3,
+    "Total Deaths":60,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.733,1.015 ]
+    },
+    "properties": {
+    "Year":1994,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"INDONESIA",
+    "Location Name":"HALMAHERA",
+    "Maximum Water Height (m)":2,
+    "Number of Runups":3,
+    "Tsunami Intensity":1.5,
+    "Total Deaths":9,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.683,40.608 ]
+    },
+    "properties": {
+    "Year":1994,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.4,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"HOKKAIDO ISLAND",
+    "Maximum Water Height (m)":0.11,
+    "Number of Runups":3,
+    "Tsunami Intensity":-1.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.835,-10.477 ]
+    },
+    "properties": {
+    "Year":1994,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.8,
+    "Deposits":5,
+    "Country":"INDONESIA",
+    "Location Name":"SOUTH OF JAVA",
+    "Maximum Water Height (m)":13.9,
+    "Number of Runups":74,
+    "Tsunami Intensity":2.5,
+    "Total Deaths":238,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -125.68,40.402 ]
+    },
+    "properties": {
+    "Year":1994,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"USA",
+    "Location Name":"N. CALIFORNIA",
+    "Maximum Water Height (m)":0.07,
+    "Number of Runups":1,
+    "Tsunami Intensity":-3,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.321,43.773 ]
+    },
+    "properties": {
+    "Year":1994,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8.3,
+    "Deposits":2,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":10.4,
+    "Number of Runups":118,
+    "Tsunami Intensity":2.6,
+    "Total Deaths":11,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.98,-1.258 ]
+    },
+    "properties": {
+    "Year":1994,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.8,
+    "Deposits":0,
+    "Country":"INDONESIA",
+    "Location Name":"HALMAHERA",
+    "Maximum Water Height (m)":3,
+    "Number of Runups":1,
+    "Tsunami Intensity":1.5,
+    "Total Deaths":1,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.916,43.905 ]
+    },
+    "properties": {
+    "Year":1994,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.3,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":0.2,
+    "Number of Runups":2,
+    "Tsunami Intensity":-3,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.067,13.525 ]
+    },
+    "properties": {
+    "Year":1994,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.1,
+    "Deposits":3,
+    "Country":"PHILIPPINES",
+    "Location Name":"PHILIPPINE ISLANDS",
+    "Maximum Water Height (m)":7.3,
+    "Number of Runups":56,
+    "Tsunami Intensity":2.1,
+    "Total Deaths":81,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.018,34.583 ]
+    },
+    "properties": {
+    "Year":1995,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.9,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"KOBE, JAPAN",
+    "Maximum Water Height (m)":0.34,
+    "Number of Runups":2,
+    "Tsunami Intensity":-2,
+    "Total Deaths":5502,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -173.529,-15.199 ]
+    },
+    "properties": {
+    "Year":1995,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.4,
+    "Deposits":0,
+    "Country":"SAMOA",
+    "Location Name":"SAMOA ISLANDS",
+    "Maximum Water Height (m)":0.09,
+    "Number of Runups":2,
+    "Tsunami Intensity":-1.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.58,12.059 ]
+    },
+    "properties": {
+    "Year":1995,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.2,
+    "Deposits":0,
+    "Country":"PHILIPPINES",
+    "Location Name":"SAMAR ISLAND",
+    "Maximum Water Height (m)":0.2,
+    "Number of Runups":1,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.92,12.047 ]
+    },
+    "properties": {
+    "Year":1995,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.8,
+    "Deposits":0,
+    "Country":"PHILIPPINES",
+    "Location Name":"SAMAR ISLAND",
+    "Maximum Water Height (m)":0.2,
+    "Number of Runups":0,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 169.9,-23.008 ]
+    },
+    "properties": {
+    "Year":1995,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.7,
+    "Deposits":0,
+    "Country":"NEW CALEDONIA",
+    "Location Name":"LOYALTY ISLANDS",
+    "Maximum Water Height (m)":0.5,
+    "Number of Runups":9,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.827,52.629 ]
+    },
+    "properties": {
+    "Year":1995,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.1,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"SAKHALIN ISLAND",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":2,
+    "Tsunami Intensity":-2,
+    "Total Deaths":1989,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.294,-23.34 ]
+    },
+    "properties": {
+    "Year":1995,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8,
+    "Deposits":3,
+    "Country":"CHILE",
+    "Location Name":"NORTHERN CHILE",
+    "Maximum Water Height (m)":3,
+    "Number of Runups":91,
+    "Tsunami Intensity":1.5,
+    "Total Deaths":3,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 154.178,-5.799 ]
+    },
+    "properties": {
+    "Year":1995,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.7,
+    "Deposits":0,
+    "Country":"PAPUA NEW GUINEA",
+    "Location Name":"SOLOMON SEA",
+    "Maximum Water Height (m)":0.28,
+    "Number of Runups":2,
+    "Tsunami Intensity":-1.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.597,16.779 ]
+    },
+    "properties": {
+    "Year":1995,
+    "Tsunami Event Validity":3,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.4,
+    "Deposits":0,
+    "Country":"MEXICO",
+    "Location Name":"S. MEXICO",
+    "Maximum Water Height (m)":0.4,
+    "Number of Runups":1,
+    "Tsunami Intensity":-1,
+    "Total Deaths":3,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.205,19.055 ]
+    },
+    "properties": {
+    "Year":1995,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8,
+    "Deposits":1,
+    "Country":"MEXICO",
+    "Location Name":"S. MEXICO",
+    "Maximum Water Height (m)":11,
+    "Number of Runups":34,
+    "Tsunami Intensity":2.5,
+    "Total Deaths":50,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.175,27.929 ]
+    },
+    "properties": {
+    "Year":1995,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.1,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"RYUKYU ISLANDS",
+    "Maximum Water Height (m)":2.59,
+    "Number of Runups":42,
+    "Tsunami Intensity":1.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.417,-28.906 ]
+    },
+    "properties": {
+    "Year":1995,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.7,
+    "Deposits":0,
+    "Country":"CHILE",
+    "Location Name":"NORTHERN CHILE",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":1,
+    "Tsunami Intensity":-3,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.3,44.663 ]
+    },
+    "properties": {
+    "Year":1995,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.9,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"S. KURIL ISLANDS",
+    "Maximum Water Height (m)":1.1,
+    "Number of Runups":37,
+    "Tsunami Intensity":0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.931,0.729 ]
+    },
+    "properties": {
+    "Year":1996,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.9,
+    "Deposits":0,
+    "Country":"INDONESIA",
+    "Location Name":"SULAWESI",
+    "Maximum Water Height (m)":3.43,
+    "Number of Runups":16,
+    "Tsunami Intensity":1.8,
+    "Total Deaths":9,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.952,-0.891 ]
+    },
+    "properties": {
+    "Year":1996,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":8.2,
+    "Deposits":1,
+    "Country":"INDONESIA",
+    "Location Name":"IRIAN JAYA",
+    "Maximum Water Height (m)":7.7,
+    "Number of Runups":115,
+    "Tsunami Intensity":1.8,
+    "Total Deaths":164,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.587,-9.593 ]
+    },
+    "properties": {
+    "Year":1996,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.5,
+    "Deposits":1,
+    "Country":"PERU",
+    "Location Name":"N. PERU",
+    "Maximum Water Height (m)":5.04,
+    "Number of Runups":59,
+    "Tsunami Intensity":1.9,
+    "Total Deaths":12,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.07,15.978 ]
+    },
+    "properties": {
+    "Year":1996,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.1,
+    "Deposits":0,
+    "Country":"MEXICO",
+    "Location Name":"MEXICO",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":1,
+    "Tsunami Intensity":-3,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -177.632,51.564 ]
+    },
+    "properties": {
+    "Year":1996,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.9,
+    "Deposits":0,
+    "Country":"USA",
+    "Location Name":"ANDREANOF ISLANDS, AK",
+    "Maximum Water Height (m)":0.51,
+    "Number of Runups":64,
+    "Tsunami Intensity":0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -176.847,51.478 ]
+    },
+    "properties": {
+    "Year":1996,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.3,
+    "Deposits":0,
+    "Country":"USA",
+    "Location Name":"ANDREANOF ISLANDS, AK",
+    "Maximum Water Height (m)":0.18,
+    "Number of Runups":1,
+    "Tsunami Intensity":-1.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.931,31.555 ]
+    },
+    "properties": {
+    "Year":1996,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":5.7,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"HONSHU ISLAND",
+    "Maximum Water Height (m)":0.3,
+    "Number of Runups":14,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.436,-22.118 ]
+    },
+    "properties": {
+    "Year":1996,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.9,
+    "Deposits":0,
+    "Country":"CHILE",
+    "Location Name":"EASTER ISLAND REGION",
+    "Maximum Water Height (m)":0.09,
+    "Number of Runups":2,
+    "Tsunami Intensity":-2.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.093,30.568 ]
+    },
+    "properties": {
+    "Year":1996,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.6,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"KYUSHU ISLAND",
+    "Maximum Water Height (m)":0.2,
+    "Number of Runups":1,
+    "Tsunami Intensity":-2.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.468,31.885 ]
+    },
+    "properties": {
+    "Year":1996,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.7,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"KYUSHU ISLAND",
+    "Maximum Water Height (m)":0.55,
+    "Number of Runups":6,
+    "Tsunami Intensity":0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.675,-14.993 ]
+    },
+    "properties": {
+    "Year":1996,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.7,
+    "Deposits":0,
+    "Country":"PERU",
+    "Location Name":"S. PERU",
+    "Maximum Water Height (m)":0.4,
+    "Number of Runups":3,
+    "Tsunami Intensity":-1,
+    "Total Deaths":14,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.314,31.789 ]
+    },
+    "properties": {
+    "Year":1996,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.7,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SEA OF JAPAN",
+    "Maximum Water Height (m)":0.2,
+    "Number of Runups":4,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.676,-12.584 ]
+    },
+    "properties": {
+    "Year":1997,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.7,
+    "Deposits":0,
+    "Country":"SOLOMON ISLANDS",
+    "Location Name":"SANTA CRUZ IS. VANUATU",
+    "Maximum Water Height (m)":3,
+    "Number of Runups":41,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 162.035,54.841 ]
+    },
+    "properties": {
+    "Year":1997,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.8,
+    "Deposits":0,
+    "Country":"RUSSIA",
+    "Location Name":"KAMCHATKA",
+    "Maximum Water Height (m)":8,
+    "Number of Runups":18,
+    "Tsunami Intensity":0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.891,-2.071 ]
+    },
+    "properties": {
+    "Year":1998,
+    "Tsunami Event Validity":2,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.7,
+    "Deposits":0,
+    "Country":"INDONESIA",
+    "Location Name":"TALIABU ISLAND",
+    "Maximum Water Height (m)":2.75,
+    "Number of Runups":1,
+    "Tsunami Intensity":1,
+    "Total Deaths":41,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 167.856,-17.6 ]
+    },
+    "properties": {
+    "Year":2002,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.2,
+    "Deposits":0,
+    "Country":"VANUATU",
+    "Location Name":"VANUATU ISLANDS",
+    "Maximum Water Height (m)":3,
+    "Number of Runups":2,
+    "Tsunami Intensity":-4.14,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.94,-3.26 ]
+    },
+    "properties": {
+    "Year":2002,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.6,
+    "Deposits":0,
+    "Country":"PAPUA NEW GUINEA",
+    "Location Name":"BISMARCK SEA",
+    "Maximum Water Height (m)":5.5,
+    "Number of Runups":88,
+    "Tsunami Intensity":1.08,
+    "Total Deaths":4,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134.297,-1.757 ]
+    },
+    "properties": {
+    "Year":2002,
+    "Tsunami Event Validity":1,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.6,
+    "Deposits":0,
+    "Country":"INDONESIA",
+    "Location Name":"IRIAN JAYA",
+    "Maximum Water Height (m)":5,
+    "Number of Runups":3,
+    "Tsunami Intensity":2.82,
+    "Total Deaths":8,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.104,18.77 ]
+    },
+    "properties": {
+    "Year":2003,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":7.5,
+    "Deposits":1,
+    "Country":"MEXICO",
+    "Location Name":"S. MEXICO",
+    "Maximum Water Height (m)":0.61,
+    "Number of Runups":6,
+    "Tsunami Intensity":0.5,
+    "Total Deaths":29,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.634,36.964 ]
+    },
+    "properties": {
+    "Year":2003,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":1,
+    "Earthquake Magnitude":6.8,
+    "Deposits":1,
+    "Country":"ALGERIA",
+    "Location Name":"N. ALGERIA",
+    "Maximum Water Height (m)":3,
+    "Number of Runups":39,
+    "Tsunami Intensity":1.5,
+    "Total Deaths":2287,
+    "Natural Disaster":"Earthquake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146,60 ]
+    },
+    "properties": {
+    "Year":1925,
+    "Tsunami Event Validity":3,
+    "Tsunami Cause Code":3,
+    "Earthquake Magnitude":6,
+    "Deposits":0,
+    "Country":"USA",
+    "Location Name":"GULF OF ALASKA, AK",
+    "Maximum Water Height (m)":1.4,
+    "Number of Runups":1,
+    "Tsunami Intensity":1,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake and Landslide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.1,35.6 ]
+    },
+    "properties": {
+    "Year":1927,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":3,
+    "Earthquake Magnitude":7.6,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"SW. HONSHU ISLAND",
+    "Maximum Water Height (m)":11.3,
+    "Number of Runups":17,
+    "Tsunami Intensity":0.5,
+    "Total Deaths":3022,
+    "Natural Disaster":"Earthquake and Landslide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 172.25,-41.75 ]
+    },
+    "properties": {
+    "Year":1929,
+    "Tsunami Event Validity":2,
+    "Tsunami Cause Code":3,
+    "Earthquake Magnitude":7.5,
+    "Deposits":0,
+    "Country":"NEW ZEALAND",
+    "Location Name":"TASMAN SEA",
+    "Maximum Water Height (m)":2.5,
+    "Number of Runups":2,
+    "Tsunami Intensity":1.5,
+    "Total Deaths":17,
+    "Natural Disaster":"Earthquake and Landslide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.643,34.03 ]
+    },
+    "properties": {
+    "Year":1930,
+    "Tsunami Event Validity":3,
+    "Tsunami Cause Code":3,
+    "Earthquake Magnitude":5.2,
+    "Deposits":0,
+    "Country":"USA",
+    "Location Name":"S. CALIFORNIA",
+    "Maximum Water Height (m)":3.05,
+    "Number of Runups":3,
+    "Tsunami Intensity":-0.5,
+    "Total Deaths":1,
+    "Natural Disaster":"Earthquake and Landslide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 176.025,-39.772 ]
+    },
+    "properties": {
+    "Year":1931,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":3,
+    "Earthquake Magnitude":7.7,
+    "Deposits":2,
+    "Country":"NEW ZEALAND",
+    "Location Name":"N. NEW ZEALAND",
+    "Maximum Water Height (m)":15,
+    "Number of Runups":5,
+    "Tsunami Intensity":0,
+    "Total Deaths":261,
+    "Natural Disaster":"Earthquake and Landslide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76,-15 ]
+    },
+    "properties": {
+    "Year":1942,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":3,
+    "Earthquake Magnitude":8.2,
+    "Deposits":0,
+    "Country":"PERU",
+    "Location Name":"S. PERU",
+    "Maximum Water Height (m)":2,
+    "Number of Runups":3,
+    "Tsunami Intensity":1,
+    "Total Deaths":30,
+    "Natural Disaster":"Earthquake and Landslide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -162.832,53.492 ]
+    },
+    "properties": {
+    "Year":1946,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":3,
+    "Earthquake Magnitude":8.6,
+    "Deposits":11,
+    "Country":"USA",
+    "Location Name":"UNIMAK ISLAND, AK",
+    "Maximum Water Height (m)":42,
+    "Number of Runups":621,
+    "Tsunami Intensity":4,
+    "Total Deaths":168,
+    "Natural Disaster":"Earthquake and Landslide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.92,49.87 ]
+    },
+    "properties": {
+    "Year":1946,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":3,
+    "Earthquake Magnitude":7.3,
+    "Deposits":1,
+    "Country":"CANADA",
+    "Location Name":"BRITISH COLUMBIA",
+    "Maximum Water Height (m)":9,
+    "Number of Runups":5,
+    "Tsunami Intensity":2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake and Landslide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 178.87,-38.85 ]
+    },
+    "properties": {
+    "Year":1947,
+    "Tsunami Event Validity":3,
+    "Tsunami Cause Code":3,
+    "Earthquake Magnitude":7.1,
+    "Deposits":0,
+    "Country":"NEW ZEALAND",
+    "Location Name":"OFF COAST OF NORTH ISLAND",
+    "Maximum Water Height (m)":10,
+    "Number of Runups":10,
+    "Tsunami Intensity":3,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake and Landslide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22,37 ]
+    },
+    "properties": {
+    "Year":1947,
+    "Tsunami Event Validity":3,
+    "Tsunami Cause Code":3,
+    "Earthquake Magnitude":6.9,
+    "Deposits":0,
+    "Country":"GREECE",
+    "Location Name":"PELOPONNESUS, GREECE",
+    "Maximum Water Height (m)":1,
+    "Number of Runups":1,
+    "Tsunami Intensity":2,
+    "Total Deaths":3,
+    "Natural Disaster":"Earthquake and Landslide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 178.2,-18.3 ]
+    },
+    "properties": {
+    "Year":1953,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":3,
+    "Earthquake Magnitude":6.4,
+    "Deposits":2,
+    "Country":"FIJI",
+    "Location Name":"FIJI ISLANDS",
+    "Maximum Water Height (m)":15,
+    "Number of Runups":31,
+    "Tsunami Intensity":1,
+    "Total Deaths":7,
+    "Natural Disaster":"Earthquake and Landslide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -136.665,58.37 ]
+    },
+    "properties": {
+    "Year":1958,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":3,
+    "Earthquake Magnitude":7.8,
+    "Deposits":2,
+    "Country":"USA",
+    "Location Name":"SE. ALASKA, AK",
+    "Maximum Water Height (m)":524.6,
+    "Number of Runups":17,
+    "Tsunami Intensity":5,
+    "Total Deaths":5,
+    "Natural Disaster":"Earthquake and Landslide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.648,61.017 ]
+    },
+    "properties": {
+    "Year":1964,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":3,
+    "Earthquake Magnitude":9.2,
+    "Deposits":20,
+    "Country":"USA",
+    "Location Name":"PRINCE WILLIAM SOUND, AK",
+    "Maximum Water Height (m)":51.8,
+    "Number of Runups":426,
+    "Tsunami Intensity":3.5,
+    "Total Deaths":139,
+    "Natural Disaster":"Earthquake and Landslide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.471,-4.907 ]
+    },
+    "properties": {
+    "Year":1970,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":3,
+    "Earthquake Magnitude":7.3,
+    "Deposits":0,
+    "Country":"PAPUA NEW GUINEA",
+    "Location Name":"PAPUA NEW GUINEA",
+    "Maximum Water Height (m)":3,
+    "Number of Runups":3,
+    "Tsunami Intensity":0.5,
+    "Total Deaths":18,
+    "Natural Disaster":"Earthquake and Landslide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.6,-6.5 ]
+    },
+    "properties": {
+    "Year":1971,
+    "Tsunami Event Validity":2,
+    "Tsunami Cause Code":3,
+    "Earthquake Magnitude":7,
+    "Deposits":0,
+    "Country":"PAPUA NEW GUINEA",
+    "Location Name":"BISMARCK SEA",
+    "Maximum Water Height (m)":1.8,
+    "Number of Runups":1,
+    "Tsunami Intensity":0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake and Landslide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -135.685,56.82 ]
+    },
+    "properties": {
+    "Year":1972,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":3,
+    "Earthquake Magnitude":7.6,
+    "Deposits":0,
+    "Country":"USA",
+    "Location Name":"SE. ALASKA, AK",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":3,
+    "Tsunami Intensity":-2,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake and Landslide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.033,19.451 ]
+    },
+    "properties": {
+    "Year":1975,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":3,
+    "Earthquake Magnitude":7.7,
+    "Deposits":1,
+    "Country":"USA",
+    "Location Name":"HAWAII",
+    "Maximum Water Height (m)":14.3,
+    "Number of Runups":76,
+    "Tsunami Intensity":3,
+    "Total Deaths":2,
+    "Natural Disaster":"Earthquake and Landslide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.354,36.195 ]
+    },
+    "properties": {
+    "Year":1980,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":3,
+    "Earthquake Magnitude":7.7,
+    "Deposits":0,
+    "Country":"ALGERIA",
+    "Location Name":"EL ASNAM",
+    "Maximum Water Height (m)":0.7,
+    "Number of Runups":6,
+    "Tsunami Intensity":2,
+    "Total Deaths":5000,
+    "Natural Disaster":"Earthquake and Landslide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.896,-8.48 ]
+    },
+    "properties": {
+    "Year":1992,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":3,
+    "Earthquake Magnitude":7.8,
+    "Deposits":9,
+    "Country":"INDONESIA",
+    "Location Name":"FLORES SEA",
+    "Maximum Water Height (m)":26.2,
+    "Number of Runups":111,
+    "Tsunami Intensity":2.7,
+    "Total Deaths":2500,
+    "Natural Disaster":"Earthquake and Landslide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.049,-8.452 ]
+    },
+    "properties": {
+    "Year":1995,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":3,
+    "Earthquake Magnitude":6.9,
+    "Deposits":0,
+    "Country":"INDONESIA",
+    "Location Name":"TIMOR SEA",
+    "Maximum Water Height (m)":4,
+    "Number of Runups":2,
+    "Tsunami Intensity":1.5,
+    "Total Deaths":11,
+    "Natural Disaster":"Earthquake and Landslide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.283,38.401 ]
+    },
+    "properties": {
+    "Year":1995,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":3,
+    "Earthquake Magnitude":6.5,
+    "Deposits":1,
+    "Country":"GREECE",
+    "Location Name":"GULF OF CORINTH: AIYION",
+    "Maximum Water Height (m)":1,
+    "Number of Runups":2,
+    "Tsunami Intensity":3,
+    "Total Deaths":26,
+    "Natural Disaster":"Earthquake and Landslide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.148,28.094 ]
+    },
+    "properties": {
+    "Year":1995,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":3,
+    "Earthquake Magnitude":6.8,
+    "Deposits":0,
+    "Country":"JAPAN",
+    "Location Name":"RYUKYU ISLANDS",
+    "Maximum Water Height (m)":1.5,
+    "Number of Runups":16,
+    "Tsunami Intensity":0.5,
+    "Total Deaths":null,
+    "Natural Disaster":"Earthquake and Landslide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 154.508,49.12 ]
+    },
+    "properties": {
+    "Year":1933,
+    "Tsunami Event Validity":4,
+    "Tsunami Cause Code":6,
+    "Earthquake Magnitude":6,
+    "Deposits":1,
+    "Country":"RUSSIA",
+    "Location Name":"KHARIMKOTAN, N. KURIL ISLANDS",
+    "Maximum Water Height (m)":9,
+    "Number of Runups":2,
+    "Tsunami Intensity":2,
+    "Total Deaths":2,
+    "Natural Disaster":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.966,33.616 ]
+    },
+    "properties": {
+    "Year":1933,
+    "Tsunami Event Validity":1,
+    "Tsunami Cause Code":9,
+    "Earthquake Magnitude":6.3,
+    "Deposits":0,
+    "Country":"USA",
+    "Location Name":"S. CALIFORNIA",
+    "Maximum Water Height (m)":0.1,
+    "Number of Runups":2,
+    "Tsunami Intensity":-3,
+    "Total Deaths":120,
+    "Natural Disaster":"Meterological"
+    }
+  }
+]
+}
