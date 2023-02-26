@@ -41,7 +41,36 @@ d3.json(url).then((data) =>{
   console.log(tsunamiMarkers);
   console.log('tsunamiMarkers');
   console.log(numberofRunUps);
+  console.log('numberofRunUps');
 
+  d3.json(url2).then((ddata) =>{
+    var deathInfo = ddata
+   
+   
+       // checking that all information was pulled correctly
+     console.log(deathInfo);
+     console.log('deathInfo');
+   
+     var deathMarkers = [];
+     
+     
+     for (var i = 0; i < deathInfo.length; i++) {
+        var deathMarker = L.circle([deathInfo[i].Latitude, deathInfo[i].Longitude],{
+         stroke: true,
+         weight: 1,
+         fillOpacity: 0.5,
+         color: "#000000",
+         fillColor: "#000000",
+         radius: ( deathInfo[i]["Total Deaths"]* 10),
+       }).bindPopup("<h3><h3>Location Name:" +deathInfo[i]["Location Name"] + "<h3><h3>Total Number of Death:"+ deathInfo[i]["Total Deaths"]+ "</h3>");
+        
+       deathMarkers.push(deathMarker);
+
+      };
+  
+    console.log(deathMarkers);
+    console.log('deathMarkers');
+  
 
 var streetmap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
@@ -53,11 +82,12 @@ var topo = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
 
 var Hight = L.layerGroup(tsunamiMarkers);
 var nRunups = L.layerGroup(numberofRunUps);
+var deathNum =L.layerGroup(deathMarkers)
 
 var map = L.map("map-id", {
   center: [40.73, -74.0059],
   zoom: 2,
-  layers:[topo,Hight,nRunups]
+  layers:[topo,Hight,nRunups,deathNum]
 });
 
 
@@ -69,12 +99,15 @@ var baseMaps = {
 
 var overlays = {
   "Maximum Water Height (m)": Hight,
-  "Number of RunUps": nRunups
+  "Number of RunUps": nRunups,
+  "Total Death Number":deathNum
   
 }
 
 L.control.layers(baseMaps, overlays, {
   collapsed: false
 }).addTo(map);
+
+  });
 
 });
