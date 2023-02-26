@@ -1,11 +1,31 @@
 // Perform an API call.
 const url = "https://amirahanchian.github.io/Resources/Cleaned_Data_intensity.json";
 const url2= "https://amirahanchian.github.io/Resources/Cleaned_Data_deaths.json";
+const url3 = "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json";
+
+let tectonicplates = new L.layerGroup();
+
+d3.json(url3).then(function(data){
+
+  // Create a style for the lines.
+  let myLineStyle = {
+	  color: "orange",
+	  weight: 2
+  }
+	// Create a GeoJSON layer with retrieved data
+	L.geoJson(data,{
+		style: myLineStyle
+	}).addTo(tectonicplates);
+
+	// add tectonic plates layer to map
+	tectonicplates.addTo(map);
+
+}); 
+
 
 d3.json(url).then((data) =>{
   var tsunami_info = data
- 
- 
+
      // checking that all information was pulled correctly
    console.log(tsunami_info);
    console.log('tsunami_info');
@@ -100,8 +120,8 @@ var baseMaps = {
 var overlays = {
   "Maximum Water Height (m)": Hight,
   "Number of RunUps": nRunups,
-  "Total Death Number":deathNum
-  
+  "Total Death Number":deathNum,
+  'Tetonic Plates': tectonicplates
 }
 
 L.control.layers(baseMaps, overlays, {
