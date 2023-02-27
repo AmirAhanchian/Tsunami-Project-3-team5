@@ -1,6 +1,4 @@
-# Tsunami-Project
-
-# Project Title: A Tsunami of Information: Exploring the Causes and Consequences of Tsunamis
+# A Tsunami of Information: Exploring the Causes and Consequences of Tsunamis
 
 Team Members: Amir Ahanchian, Endi Hajdari, Kevin Dai, Mary Toofani, Natasha Girdharry 
 
@@ -23,8 +21,8 @@ Uncleaned Data: 26 columns, 2,163 rows
 
 Cleaned Data: 14 columns, 285 rows
 
-# Visualizations: 
-
+# Surfing the Waves of Code: Tsunami Visualizations
+ 
 # Interactive Bar Charts 
 
 Interactive bar charts (Tsunami frequency by country, Number of Tsunamis between 1920s to early 2000s, and Tsunami Causes).  
@@ -66,7 +64,7 @@ We had a small sample size of 285 data points so we cannot determine that this d
 Unrepresentative of the effect on coastal communities today. 
 
 
-# Conclusions: 
+# Conclusions 
 The amount of Tsunamis since the early 1920s has not significantly changed. 
 
 Majority of Tsunamis occur due to Earthquakes. 
