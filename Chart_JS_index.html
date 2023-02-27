@@ -3,10 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- importing bootstrap to create the html page -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" 
     rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
     <title>Chart JS</title>
+    <!-- importing jquery to read the json files -->
     <script src="https://code.jquery.com/jquery-3.6.3.min.js"></script>
+    <!-- importing underscore.js to help process data into objects/count keys -->
     <script src="https://cdn.jsdelivr.net/npm/underscore@1.13.6/underscore-umd-min.js"></script>
     <script>
       $(document).ready(function(){
@@ -18,26 +21,31 @@
   </head>
 
   <body class="bg-dark">
-    
+  <!-- create chart js canvas' to hold charts/diagrams created in the logic.js file -->  
     <div class="col-8 offset-2 my-5">
       <div class="card">
         <div class="card-body">
-          <h3>CHART chart CHART , ye!</h3>
+          <h3>Tsunami around the world (100 years)</h3>
           <hr>
           <canvas id="myChart"></canvas>
+          <hr>
           <canvas id="myChart2"></canvas>
+          <hr>
           <canvas id="myChart3"></canvas>
         
         </div>
       </div>
     </div>  
-    
+    1
+    <!-- importing bootstrap to create the html page -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" 
     integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
 
+    <!-- importing chart.js and chart.js plugins -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-trendline"></script>
     
-   
+   <!-- referenicing logic.js to set up the rest of the page parameters -->
     <script type="text/javascript" src="Chart JS visualization/logic.js"></script>
 
    
