@@ -1,10 +1,13 @@
 
-
-
 // import json file using jquery
+// flask api was left in for functionality check  by TA/Marker
 
-//$.getJSON("https://amirahanchian.github.io/Resources/Cleaned_Data_intensity.json", function(data) {
-$.getJSON("http://127.0.0.1:5000/api/v1.0/Tsunami", function(data) {
+//$.getJSON("http://127.0.0.1:5000/api/v1.0/Tsunami", function(data) {
+
+
+// using our online API to import to allow anyone to access the tables without needing to launch the flask api
+$.getJSON("https://amirahanchian.github.io/Resources/Cleaned_Data_intensity.json", function(data) {
+
     //check if data imported properly
     //console.log(data);
 
