@@ -1,4 +1,9 @@
-// Perform an API call.
+//API call from flask API
+//const url = "http://127.0.0.1:5000/api/v1.0/Tsunami"
+//const url2= "http://127.0.0.1:5000/api/v1.0/Death_Only"
+
+
+// Perform an API call. using our online API to do so to allow anyone to access the map without needing to launch the api
 const url = "https://amirahanchian.github.io/Resources/Cleaned_Data_intensity.json";
 const url2= "https://amirahanchian.github.io/Resources/Cleaned_Data_deaths.json";
 const url3 = "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json";
@@ -22,7 +27,7 @@ d3.json(url3).then(function(data){
 
 }); 
 
-
+// create function to import geojason file
 d3.json(url).then((data) =>{
   var tsunami_info = data
 
@@ -33,6 +38,8 @@ d3.json(url).then((data) =>{
    var tsunamiMarkers = [];
    var numberofRunUps =[];
    
+	
+   //creating markers for location of tsunamis with radius as maximum water height
    for (var i = 0; i < tsunami_info.length; i++) {
       var tsunamiMarker = L.circle([tsunami_info[i].Latitude, tsunami_info[i].Longitude],{
        stroke: true,
@@ -46,7 +53,7 @@ d3.json(url).then((data) =>{
      tsunamiMarkers.push(tsunamiMarker);
 
    
- 
+   //creating markers for location of tsunamis with radius of circle as number of run-ups
       var numberofRunUp = L.circle([tsunami_info[i].Latitude, tsunami_info[i].Longitude],{
        stroke: true,
        weight: 1,
@@ -73,7 +80,7 @@ d3.json(url).then((data) =>{
    
      var deathMarkers = [];
      
-     
+    //creating marers for location of tsunamis with radius as total deaths 
      for (var i = 0; i < deathInfo.length; i++) {
         var deathMarker = L.circle([deathInfo[i].Latitude, deathInfo[i].Longitude],{
          stroke: true,
@@ -91,19 +98,24 @@ d3.json(url).then((data) =>{
     console.log(deathMarkers);
     console.log('deathMarkers');
   
-
+// adding street map layer
 var streetmap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 });
 
+// adding topographical layer	  
 var topo = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
     attribution: 'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)'
 });
 
+	  
+//creating layer groups	  
 var Hight = L.layerGroup(tsunamiMarkers);
 var nRunups = L.layerGroup(numberofRunUps);
 var deathNum =L.layerGroup(deathMarkers)
 
+
+// adding layer groups to map
 var map = L.map("map-id", {
   center: [0, 15],
   zoom: 2,
