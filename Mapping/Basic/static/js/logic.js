@@ -105,7 +105,7 @@ var nRunups = L.layerGroup(numberofRunUps);
 var deathNum =L.layerGroup(deathMarkers)
 
 var map = L.map("map-id", {
-  center: [40.73, -74.0059],
+  center: [0, 15],
   zoom: 2,
   layers:[topo,Hight,nRunups,deathNum]
 });
