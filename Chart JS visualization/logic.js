@@ -1,10 +1,11 @@
 
 
 
-
+// import json file using jquery
 
 //$.getJSON("https://amirahanchian.github.io/Resources/Cleaned_Data_intensity.json", function(data) {
 $.getJSON("http://127.0.0.1:5000/api/v1.0/Tsunami", function(data) {
+    //check if data imported properly
     //console.log(data);
 
     
