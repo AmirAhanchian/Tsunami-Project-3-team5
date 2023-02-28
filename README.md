@@ -60,8 +60,7 @@ The median run-ups are 5 m(IQR = 15m) where even a run-up of 1m is considered da
 
 # Limitations and Challenges 
 
-We had a small sample size of 285 data points so we cannot determine that this data is representative of all tsunamis worlwide, and we only included 31 countries, and had data between 1920s to early 2000s. We also had many null values so we assumed averages for some data points (earthquake magnitude, intensity, water height, and total deaths) so this data may not be representative of cu
-Unrepresentative of the effect on coastal communities today. 
+We had a small sample size of 285 data points so we cannot determine that this data is representative of all tsunamis worlwide, and we only included 31 countries, and had data between 1920s to early 2000s. We also had many null values so this data may not be representative of the effect on coastal communities today. 
 
 
 # Conclusions 
