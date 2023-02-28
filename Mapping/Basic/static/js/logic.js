@@ -47,8 +47,8 @@ d3.json(url).then((data) =>{
        fillOpacity: 0.5,
        color: "#000000",
        fillColor: "#00008B",
-       radius: ( tsunami_info[i]["Maximum Water Height (m)"]* 6000),
-     }).bindPopup("<h3><h3>Location Name:" +tsunami_info[i]["Location Name"] + "<h3><h3>Tsunami Water Hight(m):"+ tsunami_info[i]["Maximum Water Height (m)"]+ "</h3>");
+       radius: ( tsunami_info[i]["Maximum Water Height (m)"]* 4000),
+     }).bindPopup("<h3><h3>Location Name:" +tsunami_info[i]["Location Name"] +"<h3><h3>Year:"+ tsunami_info[i]["Year"]+"<h3><h3>Earthquake Magnitude:"+ tsunami_info[i]["Earthquake Magnitude"]+"<h3><h3>Tsunami Water Hight(m):"+ tsunami_info[i]["Maximum Water Height (m)"]+ "</h3>");
       
      tsunamiMarkers.push(tsunamiMarker);
 
@@ -60,8 +60,8 @@ d3.json(url).then((data) =>{
        fillOpacity: 0.5,
        color: "#000000",
        fillColor: "#ff0000",
-       radius: (tsunami_info[i]["Number of Runups"]*6000),
-     }).bindPopup("<h3><h3>Location Name:" +tsunami_info[i]["Location Name"] + "<h3><h3>Number Of RunUps:"+ tsunami_info[i]["Number of Runups"]+ "</h3>");
+       radius: (tsunami_info[i]["Number of Runups"]*2000),
+     }).bindPopup("<h3><h3>Location Name:" +tsunami_info[i]["Location Name"] +"<h3><h3>Year:"+ tsunami_info[i]["Year"]+"<h3><h3>Earthquake Magnitude:"+ tsunami_info[i]["Earthquake Magnitude"]+"<h3><h3>Number Of RunUps(m):"+ tsunami_info[i]["Number of Runups"]+ "</h3>");
       numberofRunUps.push(numberofRunUp);
     };
 
@@ -89,7 +89,7 @@ d3.json(url).then((data) =>{
          color: "#000000",
          fillColor: "#000000",
          radius: ( deathInfo[i]["Total Deaths"]* 10),
-       }).bindPopup("<h3><h3>Location Name:" +deathInfo[i]["Location Name"] + "<h3><h3>Total Number of Death:"+ deathInfo[i]["Total Deaths"]+ "</h3>");
+       }).bindPopup("<h3><h3>Location Name:" +deathInfo[i]["Location Name"]  +"<h3><h3>Year:"+ deathInfo[i]["Year"]+"<h3><h3>Earthquake Magnitude:"+ deathInfo[i]["Earthquake Magnitude"]+ "<h3><h3>Total Number of Death:"+ deathInfo[i]["Total Deaths"]+ "</h3>");
         
        deathMarkers.push(deathMarker);
 
@@ -119,7 +119,7 @@ var deathNum =L.layerGroup(deathMarkers)
 var map = L.map("map-id", {
   center: [0, 15],
   zoom: 2,
-  layers:[topo,Hight,nRunups,deathNum]
+  layers:[topo,Hight,nRunups,deathNum,tectonicplates]
 });
 
 
